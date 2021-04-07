@@ -14,6 +14,9 @@ Sourced from [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate
 *Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site has been around since 1995 and has served to operate like the classifieds section of a newspaper.*
 
 ![Craigslist Website](craigslist.png)
+*Craigslist Webpage*
+![Craigslist Sidebar](craigslist_tab.png)
+*Craigslist Sidebar*
 
 #### Evaluation
 *Craigslist lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.*
@@ -35,6 +38,9 @@ Heuristic & Description | Heuristic Evaluation | Improvement | Rating
 *Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace also caters users' home page to previously viewed items or to items that the website believes the user may be interested in.*
 
 ![Facebook Marketplace Website](fbmarket.png)
+*Facebook Marketplace Home*
+![FB Market Sidebar 1](fbmarket_tab1.png)![FB Market Sidebar 1](fbmarket_tab2.png)
+*Facebook Marketplace Tabs*
 
 #### Evaluation
 *Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.*
