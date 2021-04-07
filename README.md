@@ -45,6 +45,7 @@ Heuristic & Description | Heuristic Evaluation | Improvement | Rating
 *Facebook Marketplace Home*
 
 ![FB Market Sidebar 1](fbmarket_tab1.png)![FB Market Sidebar 2](fbmarket_tab2.png)
+
 *Facebook Marketplace Tabs*
 
 #### Evaluation
