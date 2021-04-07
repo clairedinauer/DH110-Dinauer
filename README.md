@@ -7,11 +7,9 @@ DH110: Heuristic Evaluation by Claire Dinauer
 ## Severity Ratings for Usability Issues
 Sourced from [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-1: Cosmetic problem only: need not be fixed unless extra time is available on project
-
-2: Minor usability problem: fixing this should be given low priority
-
-3: Major usability problem: important to fix, so should be given high priority
+1: *Cosmetic problem only*: need not be fixed unless extra time is available on project.
+2: *Minor usability problem*: fixing this should be given low priority.
+3: *Major usability problem*: important to fix, so should be given high priority.
 
 ### Website 1: [Craigslist](https://losangeles.craigslist.org/)
 *Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site has been around since 1995 and has served to operate like the classifieds section of a newspaper.*
