@@ -3,7 +3,7 @@
 
 --------
 
-<img src="craigslistnewhome.png" width="100" height="100"/>
+<img src="craigslistnewhome.png" width="600" height="400"/>
 
 ## Introduction 
 
