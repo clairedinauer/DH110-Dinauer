@@ -14,9 +14,20 @@ Usability testing (UT) is essential to observing how people use products, specif
 
 The pilot usability test will be conducted over Zoom, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers, and webcams and audio will be on. The moderator will screenrecord the Zoom conference to record the participant's reactions throughout the test, as well as to show the moderator guiding the participant through the survey and tasks. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. This pilot trial is meant to test setting, materials, and software for the purpose of improving the usability testing process. 
 
-The moderator will first introduce the usability test process to the participant and state the website being tested. After walking through and agreeing to the informed consent form, the participant will fill out a pre-test questionnaire that measures their first impressions of the Craigslist website and its tabs. Then, the participant will complete three different tasks, speaking his/her thoughts aloud while completing each task. After the three tests, the participant will fill out a post-test questionnaire about his/her experience while navigating the website. The post-test questionnaire will measure how the participant feels regarding the website's ease of use, efficiency, expected frequency of use, accessibility, aesthetics, and content organization. Furthermre, the participant will select five words that characterize his/her feelings and attitudes about the website, while still speaking aloud. Last, the participant will provide demographic data which will remain confidential and be presented anonymously. 
+**Process of the usability test:**
+* Introduction to the UT
+* Informed Consent and Agreement
+* Background Questions
+* Pre-Test Questionnaire
+* Tasks 
+* Post-Test Questionnaire
+* System Usability Scale (SUS)
+* Product Satisfaction Card
+* Demographics
 
-**The Heuristics Being Tested and Tasks are as Follows:**
+The post-test questionnaire and SUS measure how the participant feels regarding the website's ease of use, efficiency, expected frequency of use, accessibility, aesthetics, and content organization. During the Product Satisfaction Card section of the UT, the participant selects five words that characterize their feelings and attitudes about the website, while speaking aloud.
+
+**Tasks are as Follows:**
 
 Heuristic | Usability Issue  | Task  |
 :--- | :--- | :--- |
