@@ -21,9 +21,9 @@ The moderator will first introduce the usability test process to the participant
 
 The link to the moderator script and participant testing survey is here: [Click Here to Open Form](https://forms.gle/ykcCgg37MaNEwaaPA) 
 
-Note for Dr. Cho: You can access the editable testing survey and view responses [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing)
-
 The link to the usability test video and screen recording is here: [Click Here to View Mp4 File](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
+
+*Note for Dr. Cho: You can access the editable testing survey and view responses [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing).*
 
 ## Reflection 
 
