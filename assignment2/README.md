@@ -12,11 +12,8 @@ The pilot usability test will be conducted over Zoom, with the moderator and par
 The moderator will first introduce the usability test process to the participant and state the website being tested. After walking through and agreeing to the informed consent form, the participant will fill out a pre-test questionnaire that measures their first impressions of the Craigslist website and its tabs. Then, the participant will complete three different tasks, speaking his/her thoughts aloud while completing each task. After the three tests, the participant will fill out a post-test questionnaire about his/her experience while navigating the website. The post-test questionnaire will measure how the participant feels regarding the website's ease of use, efficiency, expected frequency of use, accessibility, aesthetics, and content organization. Furthermre, the participant will select five words that characterize his/her feelings and attitudes about the website, while still speaking aloud. Last, the participant will provide demographic data which will remain confidential and be presented anonymously. 
 
 ## Links to Survey and Video
-
-The link to the moderator script and participant testing survey is here: [Click Here to Open Form](https://forms.gle/ykcCgg37MaNEwaaPA) 
-
-The link to the usability test video and screen recording is here: [Click Here to View Mp4 File](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
-
+* [Moderator script and participant testing survey](https://forms.gle/ykcCgg37MaNEwaaPA) 
+* [UT video and screen recording](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
 *Note for Dr. Cho: Access to edit and view the testing survey and responses is [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing).*
 
 ## Reflection 
