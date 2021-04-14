@@ -1,11 +1,11 @@
 # Pilot Usability Test 
-#### DH 110 Assignment 2
-#### Claire Dinauer
+#### DH 110 Assignment 2 by Claire Dinauer
 
 --------
 
 ## Introduction 
 
+Craigslist has been a widely used website since its launch in 1995 for viewing and posting advertisements or listings. The website is known for operating like the classifieds section of a newspaper, displaying offerings for community service, jobs, housing, for sale items, and discussion forums. Over the years, its functionalities have expanded yet its aesthetic has remained fairly consistent. Hence, I am interested in performing a usability test for Craigslist to delve into its effectiveness, efficiency, and satisfaction based on users' behaviors and attitudes. 
 
 ## Purpose of Usability Testing
 
@@ -13,7 +13,7 @@ Usability testing (UT) is essential to observing how people use products, specif
 
 ## Methodology
 
-The pilot usability test will be conducted over Zoom, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers, and webcams and audio will be on. The moderator will screenrecord the Zoom conference to record the participant's reactions throughout the test, as well as to show the moderator guiding the participant through the survey and tasks. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. This pilot trial is meant to test setting, materials, and software for the purpose of improving the usability testing process. 
+The pilot usability test will be conducted over Zoom, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers with webcams and audio on. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. The moderator will screenrecord the Zoom conference to record the participant's reactions throughout the test. The screen recording will also include the moderator guiding the participant through the UT survey and tasks. This is a pilot trial, which is meant to test setting, materials, and software to improve the UT process. 
 
 **Process of the usability test:**
 * Introduction to the UT
