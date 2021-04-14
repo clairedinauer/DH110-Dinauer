@@ -23,7 +23,7 @@ The link to the moderator script and participant testing survey is here: [Click 
 
 The link to the usability test video and screen recording is here: [Click Here to View Mp4 File](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
 
-*Note for Dr. Cho: You can access the editable testing survey and view responses [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing).*
+*Note for Dr. Cho: Access to edit and view the testing survey and responses is [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing).*
 
 ## Reflection 
 
