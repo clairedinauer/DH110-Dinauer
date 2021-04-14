@@ -5,7 +5,7 @@
 
 ## Introduction 
 
-Craigslist has been a widely used website since its launch in 1995 for viewing and posting advertisements or listings. The website is known for operating like the classifieds section of a newspaper, displaying offerings for community service, jobs, housing, for sale items, and discussion forums. Over the years, its functionalities have expanded yet its aesthetic has remained fairly consistent. Hence, I am interested in performing a usability test for Craigslist to delve into its effectiveness, efficiency, and satisfaction based on users' behaviors and attitudes. 
+Craigslist has been a widely used website since its launch in 1995 for viewing and posting advertisements or listings. The website is known for operating like the classifieds section of a newspaper, displaying offerings for community service, jobs, housing, for sale items, and discussion forums. Over the years, its functionalities have expanded yet its aesthetic has remained fairly consistent. Hence, I am interested in performing a usability test for Craigslist to delve into its effectiveness, efficiency, and satisfaction based on users' behaviors and attitudes. This will enable us to learn more about how we can improve the website based on the user's perspective.
 
 <img src="craigslistnewhome.png" width="500" height="400"/>
 
@@ -15,7 +15,7 @@ Usability testing (UT) is essential to observing how people use products, specif
 
 ## Methodology
 
-The pilot usability test will be conducted over Zoom, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers with webcams and audio on. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. The moderator will screenrecord the Zoom conference to record the participant's reactions throughout the test. The screen recording will also include the moderator guiding the participant through the UT survey and tasks. This is a pilot trial, which is meant to test setting, materials, and software to improve the UT process. 
+The pilot usability test will be conducted over Zoom software, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers with webcams and audio on. The survey will be conducted through Google Forms. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. The moderator will screen record the Zoom conference to record the participant's reactions throughout the test. The screen recording will also include the moderator guiding the participant through the UT survey and tasks. This is a pilot trial, which is meant to test setting, materials, and software to improve the UT process. 
 
 **Process of the usability test:**
 * Introduction to the UT
@@ -47,3 +47,6 @@ Consistency and standards  | The discussion forums are inconsistently organized,
 
 ## Reflection 
 
+Overall, I think that the pilot testing went well. Because my participant had used Craigslist in the past, it was fascinating to ask her to navigate through different functions of the website that she had not used before. I think I could have done a better job of guiding her through the tasks without explicitly giving away what she would have to do to complete each task when I noticed that she was struggling. I tried to balance reading the instructions from the survey while remaining friendly and conversational to make her feel comfortable with sharing her thoughts throughout the survey. I also could have reminded her to explain her choices better during the post-test questionnaires to gain more insight into her attitudes toward the website and tasks.
+
+Additionally, I think that I could improve the UT tasks by making them more specific/less broad to give the user more direction. This may also help with making sure each task is straightforward and that the user does not have to ask too many questions while navigating. I am also interested in constructing alternate tasks based on the heuristics I chose. I would also like to ask more open-ended questions during the pre-test questionnaire to get into the “why” of a participant’s scoring. Furthermore, I think that I should control and explain the UT survey on my end rather than the participant’s end. Overall, I think that conducting more UT tests with additional participants will figure out how to best gauge participant’s attitudes toward the site.
