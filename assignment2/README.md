@@ -5,6 +5,11 @@ DH 110 Assignment 2 - Claire Dinauer
 
 ## Introduction 
 
+
+## Purpose of Usability Testing
+
+Usability testing (UT) is essential to observing how people use products, specifically websites or apps in this case, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. UT allows product creators to identify what users find good or bad about the web or app design. Specific issues can be identified by utilizing heuristic evaluation and task tests to determine the extent to which the web or app is effective, efficient, and satisfactory to users, as described above. Unlike heuristic evaluation, UT enables product creators to note participant’s behaviors, attitudes, and thoughts while navigating the product.
+
 ## Methodology
 
 The pilot usability test will be conducted over Zoom, with the moderator and participant both sitting in quiet spaces. The moderator and participant will both be using computers, and webcams and audio will be on. The moderator will screenrecord the Zoom conference to record the participant's reactions throughout the test, as well as to show the moderator guiding the participant through the survey and tasks. The participant will be screen sharing to display the survey and the website, so the moderator can see what the participant is doing while completing each task on the website. This pilot trial is meant to test setting, materials, and software for the purpose of improving the usability testing process. 
@@ -14,6 +19,7 @@ The moderator will first introduce the usability test process to the participant
 ## Links to Survey and Video
 * [Moderator script and participant testing survey](https://forms.gle/ykcCgg37MaNEwaaPA) 
 * [UT video and screen recording](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
+
 *Note for Dr. Cho: Access to edit and view the testing survey and responses is [here](https://docs.google.com/forms/d/1hBe1Mmp4fsfxIqDMuVbNi2WNbXbaHeIOO-kFogxCavU/edit?usp=sharing).*
 
 ## Reflection 
