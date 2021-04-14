@@ -3,11 +3,11 @@
 
 --------
 
-<img src="craigslistnewhome.png" width="600" height="400"/>
-
 ## Introduction 
 
 Craigslist has been a widely used website since its launch in 1995 for viewing and posting advertisements or listings. The website is known for operating like the classifieds section of a newspaper, displaying offerings for community service, jobs, housing, for sale items, and discussion forums. Over the years, its functionalities have expanded yet its aesthetic has remained fairly consistent. Hence, I am interested in performing a usability test for Craigslist to delve into its effectiveness, efficiency, and satisfaction based on users' behaviors and attitudes. 
+
+<img src="craigslistnewhome.png" width="500" height="400"/>
 
 ## Purpose of Usability Testing
 
