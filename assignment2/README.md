@@ -16,9 +16,9 @@ The pilot usability test will be conducted over Zoom, with the moderator and par
 
 The moderator will first introduce the usability test process to the participant and state the website being tested. After walking through and agreeing to the informed consent form, the participant will fill out a pre-test questionnaire that measures their first impressions of the Craigslist website and its tabs. Then, the participant will complete three different tasks, speaking his/her thoughts aloud while completing each task. After the three tests, the participant will fill out a post-test questionnaire about his/her experience while navigating the website. The post-test questionnaire will measure how the participant feels regarding the website's ease of use, efficiency, expected frequency of use, accessibility, aesthetics, and content organization. Furthermre, the participant will select five words that characterize his/her feelings and attitudes about the website, while still speaking aloud. Last, the participant will provide demographic data which will remain confidential and be presented anonymously. 
 
-**The Tasks are as Follows:**
+**The Heuristics Being Tested and Tasks are as Follows:**
 
-Heuristic Being Tested | Usability Problem  | Task Scenario  |
+Heuristic | Usability Issue  | Task  |
 :--- | :--- | :--- |
 Error prevention  | The website automatically moves forward with every choice the user makes while creating a listing, without confirming their actions  | Create a posting for a particular location and topic | 
 Aesthetic and minimalist design  | The website is cluttered, with nearly all possible topics listed out on the home page. The event calendar is oddly organized   | Finding an event to attend for particular dates |
