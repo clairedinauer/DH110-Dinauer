@@ -1,5 +1,6 @@
 # Pilot Usability Test 
-DH 110 Assignment 2 - Claire Dinauer
+#### DH 110 Assignment 2
+#### Claire Dinauer
 
 --------
 
