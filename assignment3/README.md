@@ -3,7 +3,7 @@
 
 --------
 
-## Main Design Challenge
+## ✅ Main Design Challenge
 
 **What is the main activity your project would support the users’ needs?**
 
@@ -23,7 +23,7 @@ Many grocery stores and merchandise retailers that sell groceries have applicati
 
 Because applications for larger stores are specific to providing information regarding products and costs at that one store, an application that utilizes algorithms to compare costs of products and produce across multiple grocery stores will enable users to find the products that they are looking for at the lowest cost. In addition, rather than feeling limited to shopping at one store, users could set location preferences for where they would like to do their grocery shopping within a certain radius, as well as how many stores they may be willing to go to, in order to curate a shopping experience that works best for their time and wallet.
 
-## Target Users 
+## ✅ Target Users 
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 
@@ -39,9 +39,9 @@ Because applications for larger stores are specific to providing information reg
 
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
-- The goal of the users would be to curate a digital shopping list that compares prices across grocer locations to maximize users' time and savings. To accomplish this, users would type their grocery list into their device, which would then recommend which store to go to based on cost, available coupons, and store location. When shopping in-store, users would be able to pull out their device and view their grocery list, in which they can see where products are located in the store (e.g. which aisle). Users would also download and store coupons in their device to use during check-out.
+The goal of the users would be to curate a digital shopping list that compares prices across grocer locations to maximize users' time and savings. To accomplish this, users would type their grocery list into their device, which would then recommend which store to go to based on cost, available coupons, and store location. When shopping in-store, users would be able to pull out their device and view their grocery list, in which they can see where products are located in the store (e.g. which aisle). Users would also download and store coupons in their device to use during check-out.
 
-## Picking Research Methods
+## ✅ Picking Research Methods
 
 I chose to use an interview and participatory observation as my methods. 
 
@@ -53,9 +53,9 @@ For participator observation, I gave the user two tasks to complete:
 
 #### Additional Information About Methods:
 
-I conducted these activities in-person with the participant. We sat at a table in my apartment, where the space was clean and the user felt comfortable. I video recorded the conversation using my computer camera, and I adjusted the camera to show the user writing their grocery list when necessary. I also used screen-recoding on the mobile device on which the user created their grocery list in the Ralph's App. The website [otter.ai](otter.ai) was useful to transcribe the conversation.
+I conducted these activities in-person with the participant. We sat at a table in my apartment, where the space was clean and the user felt comfortable. I video recorded the conversation using my computer camera, and I adjusted the camera to show the user writing their grocery list when necessary. I also used screen-recoding on the mobile device on which the user created their grocery list in the Ralph's App. I used the website [otter.ai](otter.ai) to help me transcribe the conversation. I went back through the transciption to organize it.
 
-## Research Materials: Script and Videos
+## ✅ Research Materials: Script and Videos
 
 **1. Contextual Inquiry Guide:**
 
@@ -81,10 +81,10 @@ The **digital list** created by the participant in the Ralph's app can be viewed
 
 <img src="ralphslist.jpg" width="250" height="500"/>
 
-## Interesting Insights and Quotes from the Interview
+## ✅ Interesting Insights and Quotes from the Interview
 
 
-## Reflection
+## ✅ Reflection
 
 In github (sub)repository assignment4, create one document (either README.md or .html)
 Describe your project design challenge + target user (step1+2)
