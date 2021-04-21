@@ -6,6 +6,7 @@
 ## 📕 Main Design Challenge
 
 **What is the main activity your project would support the users’ needs?**
+
 This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
 
 **What is the basic need involved for that activity? (reference)**
@@ -24,6 +25,7 @@ Because applications for larger stores are specific to providing information reg
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 
+
 #### Where would the users do that activity? (i.e., context of use)
 
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
@@ -34,21 +36,29 @@ Because applications for larger stores are specific to providing information reg
 Interview with direct / passive / participatory observation.
 Or something you learned on your own (refer to the field guideline by IDEO)
 
-## 📗 Plan to get into the context & write down the observation/ interview guide 
+## 📗 Research Materials: Script and Videos
 
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
+**1. Contextual Inquiry Guide:**
 
-## 📘 Step05: Conduct the research
+The **script** that I used during the interview can be found [here](https://docs.google.com/document/d/1z0tS3uKGUXR-qxgvsAQXRfvZ3kCcMeRtiJcfXVORXyM/edit?usp=sharing).
 
-Visit the place
-Meet/Observe the user(s)
-Collect the data (record, pictures, answered_survey)
+**2. User Data:**
 
-## 📚 Step06: Organize/Documentation
+The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing).
+
+- Video Part 1
+- Video Part 2
+- Ralph's App Screen-Recording
+
+*Note: The videos recording the conversation were split into a "Video Part 1" and "Video Part 2" due to recording difficulties.* 
+
+The **transcript** of my conversation with the participant can be found [here](https://docs.google.com/document/d/1TCI9dWgIZDmvxE3PBr5gTxNf1ytt21VWozHf8VS1yI0/edit?usp=sharing).
+
+The **written list** created by the participant can be viewed below:
+
+The **digital list** created by the participant can be viewed below:
+
+## 📚 Reflection
 
 In github (sub)repository assignment4, create one document (either README.md or .html)
 Describe your project design challenge + target user (step1+2)
