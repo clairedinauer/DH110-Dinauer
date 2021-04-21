@@ -15,6 +15,8 @@ This project addressess users' esteem needs, involving a sense of prestige and a
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
 
+Currently, I know many individuals who simply write out their grocery lists on paper or in the notes app on their mobile phone. It is satisfying to cross or check off items that have been purchesed from the list. People can also find coupons or search prices for some stores online.
+
 Many grocery stores and merchandise retailers that sell groceries have applications in which shoppers can curate a shopping list, view prices, add coupons, and view which aisles products are located in. In some applications, such as the [Ralph's app](https://apps.apple.com/us/app/ralphs/id584459861) or [Target app](https://www.target.com/c/target-app/-/N-4th2r?Nao=0), shoppers can add items to their list and check them off as they purchase them.
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
@@ -31,33 +33,27 @@ Because applications for larger stores are specific to providing information reg
 
 #### Where would the users do that activity? (i.e., context of use)
 
-- Users can keep track of books anywhere; in the traditional method, as long as they have a piece of 
-paper and pen, they can write down what book they read. 
-In a digital method, users can log what they read anywhere at anytime, as long as they have their device.
-- When finding books to read, users may do that activity in many different places—a library or a bookstore, 
-or even in daily conversations with their family, friends, or co-workers, or online in an online book recommendation.  
+- Traditionally, shoppers can keep track of their grocery list on a piece of paper, writing down what they need. They may carry the paper with them in the store.
+- Digitally, shoppers might write down their grocery list in an app (such as the Notes app on an iPhone), in which they can pull their device out at anytime while shopping.
+- When finding coupons or comparing prices, users may look online at a store's website or a store's mobile device application (if available). Users may have an app installed on their phone for a store, where they manage their account or can view their purchase history.
 
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
-- The goal of the users would be to log a book they read. To do that, they would either physically write down 
-information about that book, or type it in a device to record information. To find a book to read, users may search online, 
-go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family 
-about book recommendations.
+- The goal of the users would be to curate a digital shopping list that compares prices across grocer locations to maximize users' time and savings. To accomplish this, users would type their grocery list into their device, which would then recommend which store to go to based on cost, available coupons, and store location. When shopping in-store, users would be able to pull out their device and view their grocery list, in which they can see where products are located in the store (e.g. which aisle). Users would also download and store coupons in their device to use during check-out.
 
 ## Picking Research Methods
 
-#### Methods
-* I decided to use a combination of two methods: participatory observation and interview. 
-  * For participatory observation, I observed 2 activities: logging a book by hand and finding a book to read in
-  the Amazon Kindle store.
-    * Logging a book by hand: I asked the user what a book log entry would look like, if she were to record the books she read.
-    * Finding a book in the Kindle store: I asked the user how she would find a book she wants to read from the website, and 
-    what she values when looking for a book to read.
-* Both were conducted in the user’s own home, by their desk where they feel most comfortable. 
-This would also be a place where they usually read books at home.
-* I used an iPhone to voice record the interview and a laptop camera to record the user task.
-* Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant
-from my usability test to complete these activities.
+I chose to use an interview and participatory observation as my methods. 
+
+#### Participatory Observation and Interview:
+
+For participator observation, I gave the user two tasks to complete:
+1. *Creating a grocery list by-hand (pen and paper)*: I asked the user to organize their shopping list as they normally would when going to the grocery store. I asked questions regarding why the user set up their list a certain way.
+2. *Creating a grocery list in-app (Ralph's App)*: I asked the user to create a shopping list in the Ralph's app and play around with the interface. I asked questions regarding the reliability and usability of the app to understand the user's preferences.
+
+#### Additional Information About Methods:
+
+I conducted these activities in-person with the participant. We sat at a table in my apartment, where the space was clean and the user felt comfortable. I video recorded the conversation using my computer camera, and I adjusted the camera to show the user writing their grocery list when necessary. I also used screen-recoding on the mobile device on which the user created their grocery list in the Ralph's App. The website [otter.ai](otter.ai) was useful to transcribe the conversation.
 
 ## Research Materials: Script and Videos
 
@@ -84,6 +80,9 @@ The **written list** created by the participant on paper can be viewed below:
 The **digital list** created by the participant in the Ralph's app can be viewed below:
 
 <img src="ralphslist.jpg" width="250" height="500"/>
+
+## Interesting Insights and Quotes from the Interview
+
 
 ## Reflection
 
