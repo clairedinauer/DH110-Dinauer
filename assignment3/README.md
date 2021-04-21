@@ -56,6 +56,8 @@ The **transcript** of my conversation with the participant can be found [here](h
 
 The **written list** created by the participant can be viewed below:
 
+<img src="grocerylist.jpg" width="400" height="100"/>
+
 The **digital list** created by the participant can be viewed below:
 
 ## 📚 Reflection
