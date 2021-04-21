@@ -83,14 +83,17 @@ The **digital list** created by the participant in the Ralph's app can be viewed
 
 ## ✅ Interesting Insights and Quotes from the Interview
 
+**:one: Motivation for the user to make a shopping list (3:40)**
+> Usually when I'm at the grocery store like I forget a lot of things or like make a list, it's to make sure that I'm getting everything I need. So yeah, that's like the main part of it. I also just like making grocery lists and like crossing it off as I go.
+
+**:two: Using apps and rewards programs (5:50)**
+> Yeah I download apps for like certain stores like I have the Target app I don't really use it though, but Trader Joe’s doesn't have one that I can use. But, yeah, that's usually it usually like it's a store with a rewards program so like if I go there a lot like Target, it's worth it to help the app because then I get those reward points, you know?
+
+**:three: How the user sorts their shopping list (6:45)**
+> So usually I like to separate it kind of into categories so I'll do like protein, and then like vegetables or something like that.
+
+**:four: The user's preferences for what an app should offer to compare stores and prices (17:04)**
+> Probably just an app. Um, I kind of imagine it being like you could choose certain stores like maybe you could choose to interview as Ralph's and target or something, and then choose a product, and then it would tell you the price of that at each product and if there are coupons available so just like, Yeah, very much like a comparison applicants different stores. 
 
 ## ✅ Reflection
 
-In github (sub)repository assignment4, create one document (either README.md or .html)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here) 
-Write a reflection
