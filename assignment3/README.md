@@ -3,7 +3,7 @@
 
 --------
 
-## 📕 Main Design Challenge
+## Main Design Challenge
 
 **What is the main activity your project would support the users’ needs?**
 
@@ -21,7 +21,7 @@ Many grocery stores and merchandise retailers that sell groceries have applicati
 
 Because applications for larger stores are specific to providing information regarding products and costs at that one store, an application that utilizes algorithms to compare costs of products and produce across multiple grocery stores will enable users to find the products that they are looking for at the lowest cost. In addition, rather than feeling limited to shopping at one store, users could set location preferences for where they would like to do their grocery shopping within a certain radius, as well as how many stores they may be willing to go to, in order to curate a shopping experience that works best for their time and wallet.
 
-## 📙 Target Users 
+## Target Users 
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 
@@ -31,12 +31,12 @@ Because applications for larger stores are specific to providing information reg
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
 
-## 📒 Picking Research Methods
+## Picking Research Methods
 
 Interview with direct / passive / participatory observation.
 Or something you learned on your own (refer to the field guideline by IDEO)
 
-## 📗 Research Materials: Script and Videos
+## Research Materials: Script and Videos
 
 **1. Contextual Inquiry Guide:**
 
@@ -46,9 +46,9 @@ The **script** that I used during the interview can be found [here](https://docs
 
 The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing).
 
-- [Video Part 1]()
+- [Video Part 1](https://drive.google.com/file/d/1EWsEouL3s9KMMKDCbU4_pazDJfKBqfHk/view?usp=sharing)
 - [Video Part 2](https://drive.google.com/file/d/168pTi7WWqnbS4iUs5tr225mi8VE0FP2J/view?usp=sharing)
-- [Ralph's App Screen-Recording]()
+- [Ralph's App Screen-Recording](https://drive.google.com/file/d/1mrqzZi-mn4on7CcugSrnu363fompKxew/view?usp=sharing)
 
 *Note: The videos recording the conversation were split into a "Video Part 1" and "Video Part 2" due to recording difficulties.* 
 
@@ -62,7 +62,7 @@ The **digital list** created by the participant in the Ralph's app can be viewed
 
 <img src="ralphslist.jpg" width="250" height="500"/>
 
-## 📚 Reflection
+## Reflection
 
 In github (sub)repository assignment4, create one document (either README.md or .html)
 Describe your project design challenge + target user (step1+2)
