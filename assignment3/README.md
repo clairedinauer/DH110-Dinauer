@@ -21,7 +21,7 @@ What would the users do to complete that activity? (e.g., goal, operation, metho
 Interview with direct / passive / participatory observation.
 Or something you learned on your own (refer to the field guideline by IDEO)
 
-### 📗 Plan to get into the context & write down the observation/ interview guide 
+## 📗 Plan to get into the context & write down the observation/ interview guide 
 
 Decide where to visit
 Decide what activities to observe/ what to ask to do
@@ -29,13 +29,13 @@ Decide how to interact with the users
 Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
 Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
 
-### 📘 Step05: Conduct the research
+## 📘 Step05: Conduct the research
 
 Visit the place
 Meet/Observe the user(s)
 Collect the data (record, pictures, answered_survey)
 
-### 📚 Step06: Organize/Documentation
+## 📚 Step06: Organize/Documentation
 
 In github (sub)repository assignment4, create one document (either README.md or .html)
 Describe your project design challenge + target user (step1+2)
