@@ -44,7 +44,7 @@ The **script** that I used during the interview can be found [here](https://docs
 
 **2. User Data:**
 
-The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing).
+The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing). The following contents can be found in the folder:
 
 - [Video Part 1](https://drive.google.com/file/d/1EWsEouL3s9KMMKDCbU4_pazDJfKBqfHk/view?usp=sharing)
 - [Video Part 2](https://drive.google.com/file/d/168pTi7WWqnbS4iUs5tr225mi8VE0FP2J/view?usp=sharing)
