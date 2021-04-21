@@ -46,19 +46,21 @@ The **script** that I used during the interview can be found [here](https://docs
 
 The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing).
 
-- Video Part 1
-- Video Part 2
-- Ralph's App Screen-Recording
+- [Video Part 1]()
+- [Video Part 2](https://drive.google.com/file/d/168pTi7WWqnbS4iUs5tr225mi8VE0FP2J/view?usp=sharing)
+- [Ralph's App Screen-Recording]()
 
 *Note: The videos recording the conversation were split into a "Video Part 1" and "Video Part 2" due to recording difficulties.* 
 
 The **transcript** of my conversation with the participant can be found [here](https://docs.google.com/document/d/1TCI9dWgIZDmvxE3PBr5gTxNf1ytt21VWozHf8VS1yI0/edit?usp=sharing).
 
-The **written list** created by the participant can be viewed below:
+The **written list** created by the participant on paper can be viewed below:
 
 <img src="grocerylist.jpg" width="400" height="100"/>
 
-The **digital list** created by the participant can be viewed below:
+The **digital list** created by the participant in the Ralph's app can be viewed below:
+
+<img src="ralphslist.jpg" width="100" height="500"/>
 
 ## 📚 Reflection
 
