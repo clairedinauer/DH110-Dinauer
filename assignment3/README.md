@@ -60,7 +60,7 @@ The **written list** created by the participant on paper can be viewed below:
 
 The **digital list** created by the participant in the Ralph's app can be viewed below:
 
-<img src="ralphslist.jpg" width="100" height="500"/>
+<img src="ralphslist.jpg" width="250" height="500"/>
 
 ## 📚 Reflection
 
