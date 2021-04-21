@@ -1,5 +1,5 @@
 # Contextual Inquiry
-#### DH 110 Assignment 3 by Claire Dinauer
+#### *DH 110 Assignment 3 by Claire Dinauer*
 
 --------
 
@@ -25,16 +25,39 @@ Because applications for larger stores are specific to providing information reg
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 
+- **Demographics**: adults, people with families, students (high school or above), older adults
+- **Preferences**: users who try to have organized, efficient shopping trips; users who try to go to more than one store to purchase different products; users who try to get the best price when shopping (e.g. clipping coupons, price comparisons)
+- **Expertise**: users do not need a specific level of expertise for this project other than having the experience of grocery shopping
 
 #### Where would the users do that activity? (i.e., context of use)
 
+- Users can keep track of books anywhere; in the traditional method, as long as they have a piece of 
+paper and pen, they can write down what book they read. 
+In a digital method, users can log what they read anywhere at anytime, as long as they have their device.
+- When finding books to read, users may do that activity in many different places—a library or a bookstore, 
+or even in daily conversations with their family, friends, or co-workers, or online in an online book recommendation.  
+
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
+- The goal of the users would be to log a book they read. To do that, they would either physically write down 
+information about that book, or type it in a device to record information. To find a book to read, users may search online, 
+go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family 
+about book recommendations.
 
 ## Picking Research Methods
 
-Interview with direct / passive / participatory observation.
-Or something you learned on your own (refer to the field guideline by IDEO)
+#### Methods
+* I decided to use a combination of two methods: participatory observation and interview. 
+  * For participatory observation, I observed 2 activities: logging a book by hand and finding a book to read in
+  the Amazon Kindle store.
+    * Logging a book by hand: I asked the user what a book log entry would look like, if she were to record the books she read.
+    * Finding a book in the Kindle store: I asked the user how she would find a book she wants to read from the website, and 
+    what she values when looking for a book to read.
+* Both were conducted in the user’s own home, by their desk where they feel most comfortable. 
+This would also be a place where they usually read books at home.
+* I used an iPhone to voice record the interview and a laptop camera to record the user task.
+* Because I could not find another in-person participant for these activity, unfortunately I had to ask the participant
+from my usability test to complete these activities.
 
 ## Research Materials: Script and Videos
 
@@ -44,13 +67,13 @@ The **script** that I used during the interview can be found [here](https://docs
 
 **2. User Data:**
 
-The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing). The following contents can be found in the folder:
+The **videos** for the recording of the interview and the screen-recording of the participant using the Ralph's app can be found in [this folder](https://drive.google.com/drive/folders/1thzUt6qQAJquKfegJAGIs1oqi27d4Cx0?usp=sharing). The following contents are  in the folder:
 
-- [Video Part 1](https://drive.google.com/file/d/1EWsEouL3s9KMMKDCbU4_pazDJfKBqfHk/view?usp=sharing)
-- [Video Part 2](https://drive.google.com/file/d/168pTi7WWqnbS4iUs5tr225mi8VE0FP2J/view?usp=sharing)
+- [Interview: Video Part 1](https://drive.google.com/file/d/1EWsEouL3s9KMMKDCbU4_pazDJfKBqfHk/view?usp=sharing)
+- [Interview: Video Part 2](https://drive.google.com/file/d/168pTi7WWqnbS4iUs5tr225mi8VE0FP2J/view?usp=sharing)
 - [Ralph's App Screen-Recording](https://drive.google.com/file/d/1mrqzZi-mn4on7CcugSrnu363fompKxew/view?usp=sharing)
 
-*Note: The videos recording the conversation were split into a "Video Part 1" and "Video Part 2" due to recording difficulties.* 
+*Note: The video recordings were split into a "Video Part 1" and "Video Part 2" due to recording difficulties.* 
 
 The **transcript** of my conversation with the participant can be found [here](https://docs.google.com/document/d/1TCI9dWgIZDmvxE3PBr5gTxNf1ytt21VWozHf8VS1yI0/edit?usp=sharing).
 
