@@ -12,19 +12,33 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 
 ## 👥 Personas and Empathy Maps
 
-### 🚶🏼‍♂️Peter Stern
+### 🚶🏼‍♂️Jacob Stern
 
+#### 1. Jacob's Persona
 ![Jacob Persona](jacobpersona.png)
+
+#### 2. Jacob's Empathy Map
 ![Jacob Empathy](jacobempathy.png)
+
+#### 3. Scenarios
 ![Jacob Scenario](./Letter-7.png)
+
+#### 4. Jacob's Journey
 ![Jacob Journey](jacobmap.png)
 
 
 ### 🚶🏻‍♀️Maya Hao
 
+#### 1. Maya's Persona
 ![Maya Persona](mayapersona2.png)
+
+#### 2. Maya's Empathy Map
 ![Maya Empathy](mayaempathy.png)
+
+#### 3. Scenarios
 ![Maya Scenario](./Letter-8.png)
+
+#### 4. Maya's Journey
 ![Maya Journey](mayamap.png)
 
 ## Reflection
