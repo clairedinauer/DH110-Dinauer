@@ -10,9 +10,9 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 2) Aisle labeling for each product in the shopping list
 3) Recipe recommendations based on the shopping list
 
-## Personas and Empathy Maps
+## 👥 Personas and Empathy Maps
 
-### Peter Stern
+### 🚶🏼‍♂️Peter Stern
 
 ![Jacob Persona](./Letter-1.png)
 ![Jacob Empathy](./Letter-2.png)
@@ -20,7 +20,7 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 ![Jacob Journey](jacobmap.png)
 
 
-### Maya Hao
+### 🚶🏻‍♀️Maya Hao
 
 ![Maya Persona](./Letter-3.png)
 ![Maya Empathy](mayaempathy.png)
