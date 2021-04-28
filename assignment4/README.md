@@ -13,6 +13,7 @@ The purpose of UX storytelling is to better understand the user by considering t
 ## 👥 Personas and Empathy Maps
 
 ### 🚶🏼‍♂️Jacob Stern
+---
 
 #### 1. Jacob's Persona
 ![Jacob Persona](jacobpersona.png)
@@ -26,9 +27,9 @@ The purpose of UX storytelling is to better understand the user by considering t
 #### 4. Jacob's Journey
 ![Jacob Journey](jacobmap.png)
 
------
 
 ### 🚶🏻‍♀️Maya Hao
+---
 
 #### 1. Maya's Persona
 ![Maya Persona](mayapersona2.png)
