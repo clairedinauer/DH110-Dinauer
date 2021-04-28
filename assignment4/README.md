@@ -20,8 +20,8 @@ The purpose of UX storytelling is to better understand the user by considering t
 #### 2. Jacob's Empathy Map
 ![Jacob Empathy](jacobempathy.png)
 
-#### 3. Scenarios
-![Jacob Scenario](./Letter-7.png)
+#### 3. Jacob's Scenario
+![Jacob Scenario](jacobscenario.png)
 
 #### 4. Jacob's Journey
 ![Jacob Journey](jacobmap.png)
@@ -36,7 +36,7 @@ The purpose of UX storytelling is to better understand the user by considering t
 ![Maya Empathy](mayaempathy.png)
 
 #### 3. Scenarios
-![Maya Scenario](./Letter-8.png)
+![Maya Scenario](mayascenario.png)
 
 #### 4. Maya's Journey
 ![Maya Journey](mayamap.png)
