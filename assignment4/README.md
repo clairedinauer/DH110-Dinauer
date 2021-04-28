@@ -14,7 +14,7 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 
 ### 🚶🏼‍♂️Peter Stern
 
-![Jacob Persona](./Letter-1.png)
+![Jacob Persona](jacobpersona.png)
 ![Jacob Empathy](./Letter-2.png)
 ![Jacob Scenario](./Letter-7.png)
 ![Jacob Journey](jacobmap.png)
@@ -22,7 +22,7 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 
 ### 🚶🏻‍♀️Maya Hao
 
-![Maya Persona](./Letter-3.png)
+![Maya Persona](mayapersona.png)
 ![Maya Empathy](mayaempathy.png)
 ![Maya Scenario](./Letter-8.png)
 ![Maya Journey](mayamap.png)
