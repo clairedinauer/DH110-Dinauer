@@ -10,6 +10,8 @@ The purpose of UX storytelling is to better understand the user by considering t
 2) Aisle labeling for each product in the shopping list
 3) Recipe recommendations based on the shopping list
 
+*The personas utilize each of these three key design features in their respective scenarios.*
+
 ## 👥 Personas and Empathy Maps
 
 ### 🚶🏼‍♂️Jacob Stern
