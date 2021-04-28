@@ -1,4 +1,4 @@
-# UX Design of a Public Library Website
+# UX Design for a Grocery Time and Money Saver Application
 DH 110: Personas and Scenarios by Claire Dinauer
 
 ## 🗣 Purpose of UX Storytelling
