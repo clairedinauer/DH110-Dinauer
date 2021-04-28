@@ -1,5 +1,5 @@
 # UX Design of a Public Library Website
-DH 110: Persona + Scenario by Claire Dinauer
+DH 110: Personas and Scenarios by Claire Dinauer
 
 ## 🗣 Purpose of UX Storytelling
 
