@@ -3,7 +3,7 @@ DH 110: Persona + Scenario by Claire Dinauer
 
 ## 🗣 Purpose of UX Storytelling
 
-The purpose of UX storytelling is to understand the user; it allows design teams to gain insights into their users’ thoughts, behaviors, actions, and contexts. In addition to this, it allows team to connect quickly, to establish an agreed upon perception of their user, so that they may work effectively to design a cohesive product.
+The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
 
 ## 👤 Key Design Features
 1) Digital shopping list with suggested coupons
