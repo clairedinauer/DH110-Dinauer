@@ -30,16 +30,19 @@ The flow designed below allows users to find help, search for products, and sele
 
 ## Test Scenarios
 
+To test each feature, I asked my participant to do what she thought she should do in different scenarios. I asked her to circle and/or draw what she would do, as well as write down what she did for clarity.
+
 1. **Recipe Recommendations:** asking the user to find a recommendations for recipes based on their desired products.
+> My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had.
 
-
-2. **Coupons Tool:** asking the user to clip and view their coupons during check-out
+2. **Coupons Tool:** asking the user to look for an item with a coupon, then clip the coupon, and view their coupons during check-out.
 
 
 3. **Aisle Labeling:** testing whether the user can construct a shopping list and view the aisles in which their items are located
 
 
-+1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
++1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks
+
 +1: pictures/video of the tester’s walkthrough pathway
 
 ## Reflection
