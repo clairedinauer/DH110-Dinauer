@@ -14,14 +14,15 @@ My target users were created around the ideals of a balance between cost-efficie
 
 **Project Purpose:** Overall, the purpose for conducting this low-fidelity prototype is to test the functionality and ease-of-usability of the features that I designed with my target audience in mind. I want to gauge the efficiency of each of the features and understand what may be confusing to users, allowing me to figure out what I may need to adjust in my GrocerySaver application to ensure that users get the most out of each feature and the application as a whole.
 
-
 ## Flow and Description
 
 **Flow Description:**
 
 The flow designed below allows users to find help, search for products, and select/view products. The user can access the help page and search for help, click a help topic, or contact Amazon. When the user searches for help, they will be directed to a search results page where the user can find top results of pages containing the user's searched keywords. When the user clicks a help topic, they will be taken to the main page for the topic where they can access features to walk them through their concerns or needs. In addition, the flow designed allows the user to search for products in the search bar in the heading of the website. This will direct users to a list of search results and categories of results. If the user clicks on one of the categories, the page will refresh to show products that fit within that category. Users can also click on the filters they want to manipulate, which will drop down to show the filter features that the user can change to fit their wants and needs. When the user finishes implementing the filters, they press "Apply" to apply the filter and the screen will refresh to show the filtered results. Users can click on a product which will direct them to the product screen where they can view product details and add the item into their cart.
 
-
+<p align="center">
+ <img src="flow.jpeg" width="300" height="900">
+ </p>
 
 **Features Description:**
 > 1. Recipes: The "Recipes" button is located at the menu at the bottom of the home and several relevant pages. The user can click this button to view all of their recipes, in which they can search through their saved recipes. Users can also note whether an item has recommended recipes if the item has a chef's hat icon next to it.
