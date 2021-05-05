@@ -43,20 +43,20 @@ To test each feature, I asked my participant to do what she thought she should d
 > My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had.
 
 <p align="center">
- <img src="recipes.jpeg" width="350" height="600">
+ <img src="recipes.jpeg" width="350" height="550">
  </p>
  
 2. **Coupons Tool:** asking the user to look for an item with a coupon, then clip the coupon, and view their coupons during check-out.
 
 <p align="center">
- <img src="coupons.jpeg" width="350" height="600">
+ <img src="coupons.jpeg" width="350" height="550">
  </p>
 
 3. **Aisle Labeling:** testing whether the user can construct a shopping list and view the aisles in which their items are located
 
 <p align="center">
- <img src="aisle1.jpeg" width="350" height="600">
-  <img src="aisle2.jpeg" width="350" height="600">
+ <img src="aisle1.jpeg" width="350" height="550">
+  <img src="aisle2.jpeg" width="350" height="550">
  </p>
 
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks
