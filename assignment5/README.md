@@ -29,7 +29,7 @@ The flow designed below allows users to find help, search for products, and sele
 > 2. Coupons: The "Coupons" button is located at the menu at the bottom of the home and several relevant pages. The user can view all of their clipped coupons for each relevant store, and click on the coupon to open up the scannable code for check-out. Users can see if an item has a coupon if it has a box with an exclamation point next to it.
 > 3. Aisles: The user can view the aisles in which each item is located when viewing more specific details about the product in a store and when viewing their "Current List".
 
-*Features are labeled in the above flow, and all three features are identifiable in the product information page below.*
+*Features are labeled numerically in the flow above, and all three features are identifiable in the product information page below.*
 
 <p align="center">
  <img src="allfeatures.jpg" width="350" height="400">
@@ -42,11 +42,22 @@ To test each feature, I asked my participant to do what she thought she should d
 1. **Recipe Recommendations:** asking the user to find a recommendations for recipes based on their desired products.
 > My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had.
 
+<p align="center">
+ <img src="recipes.jpeg" width="350" height="600">
+ </p>
+ 
 2. **Coupons Tool:** asking the user to look for an item with a coupon, then clip the coupon, and view their coupons during check-out.
 
+<p align="center">
+ <img src="coupons.jpeg" width="350" height="600">
+ </p>
 
 3. **Aisle Labeling:** testing whether the user can construct a shopping list and view the aisles in which their items are located
 
+<p align="center">
+ <img src="aisle1.jpeg" width="350" height="600">
+  <img src="aisle2.jpeg" width="350" height="600">
+ </p>
 
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks
 
