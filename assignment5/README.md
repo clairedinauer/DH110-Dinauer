@@ -32,7 +32,7 @@ The flow designed below allows users to find help, search for products, and sele
 *Features are labeled in the above flow, and all three features are identifiable in the product information page below.*
 
 <p align="center">
- <img src="allfeatures.jpg" width="300" height="600">
+ <img src="allfeatures.jpg" width="300" height="500">
  </p>
 
 ## Test Scenarios
