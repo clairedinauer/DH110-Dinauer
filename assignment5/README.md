@@ -39,28 +39,29 @@ The flow designed below is meant to allow users to see how they can set or chang
 To test each feature, I asked my participant to do what she thought she should do in different scenarios. I asked her to circle and/or draw what she would do, as well as write down what she did for clarity.
 
 1. **Recipe Recommendations:** asking the user to find a recommendations for recipes based on their desired products.
-> My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had.
+> *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
+> *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
 
 <p align="center">
  <img src="recipes.jpeg" width="350" height="550">
  </p>
  
 2. **Coupons Tool:** asking the user to look for an item with a coupon, then clip the coupon, and view their coupons during check-out.
+> *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
+> *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
 
 <p align="center">
  <img src="coupons.jpeg" width="350" height="550">
  </p>
 
 3. **Aisle Labeling:** testing whether the user can construct a shopping list and view the aisles in which their items are located
+> *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
+> *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
 
 <p align="center">
  <img src="aisle1.jpeg" width="350" height="550">
   <img src="aisle2.jpeg" width="350" height="550">
  </p>
-
-+1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks
-
-+1: pictures/video of the tester’s walkthrough pathway
 
 ## Reflection
 
