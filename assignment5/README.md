@@ -40,6 +40,7 @@ To test each feature, I asked my participant to do what she thought she should d
 
 1. **Recipe Recommendations:** asking the user to find a recommendations for recipes based on their desired products.
 > *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
+> 
 > *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
 
 <p align="center">
@@ -47,16 +48,18 @@ To test each feature, I asked my participant to do what she thought she should d
  </p>
  
 2. **Coupons Tool:** asking the user to look for an item with a coupon, then clip the coupon, and view their coupons during check-out.
-> *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
-> *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
+> *Participant Insight:* My participant successfully found how to clip the coupon and view their coupons. She figured out how to search products and view the product to see the coupon. However, she was confused about the icon for the coupons. She also did not like that the coupons page only included clipped coupons. She stated she expected that navigating to the "Coupons" page should include recommended coupons for past products added to her list or popular coupons.
+> 
+> *What I Would Change:* I would take my participant's recommendations to change the structure of the coupons page to include recommended/popular coupons. I would also change the coupon icon to make it look less like a warning and more like a coupon. I also could possibly add a section to the list creation page that shows "coupons you may like" below the "recently purchased products" section.
 
 <p align="center">
  <img src="coupons.jpeg" width="350" height="550">
  </p>
 
 3. **Aisle Labeling:** testing whether the user can construct a shopping list and view the aisles in which their items are located
-> *Participant Insight:* My study participant was able to successfully access the "Recipes" icon, in which they stated they would search through the recipes that they had. However, my participant was confused about whether she would only have access to recipes she saved or any recipes on the app. She also did not notice that she could search through products to see what had recipe recommendations.
-> *What I Would Change:* I would make it clear that users can use the search section of the recpies page to look up any recipes they were interested in. Moreover, I would develop a feature that allows the user to add any ingredients that they needed to their shopping list directly from the recipe that they are interested in making.
+> *Participant Insight:* My participant successfully found the aisles in which the items were. She liked the organization of the aisles on the "Current List" page as organized by store. She stated that this feature was located where she mainly expected it to be.
+> 
+> *What I Would Change:* I do not think I would change much about the aisle labeling feature, other than possibly offering an aisle-specific page that includes an "other items found in this aisle" section.
 
 <p align="center">
  <img src="aisle1.jpeg" width="350" height="550">
