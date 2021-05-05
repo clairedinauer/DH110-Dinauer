@@ -21,7 +21,7 @@ My target users were created around the ideals of a balance between cost-efficie
 The flow designed below allows users to find help, search for products, and select/view products. The user can access the help page and search for help, click a help topic, or contact Amazon. When the user searches for help, they will be directed to a search results page where the user can find top results of pages containing the user's searched keywords. When the user clicks a help topic, they will be taken to the main page for the topic where they can access features to walk them through their concerns or needs. In addition, the flow designed allows the user to search for products in the search bar in the heading of the website. This will direct users to a list of search results and categories of results. If the user clicks on one of the categories, the page will refresh to show products that fit within that category. Users can also click on the filters they want to manipulate, which will drop down to show the filter features that the user can change to fit their wants and needs. When the user finishes implementing the filters, they press "Apply" to apply the filter and the screen will refresh to show the filtered results. Users can click on a product which will direct them to the product screen where they can view product details and add the item into their cart.
 
 <p align="center">
- <img src="flow.jpeg" width="450" height="900">
+ <img src="flow.jpeg" width="550" height="950">
  </p>
 
 **Features Description:**
