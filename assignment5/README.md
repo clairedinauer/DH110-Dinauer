@@ -29,6 +29,12 @@ The flow designed below allows users to find help, search for products, and sele
 > 2. Coupons: The "Coupons" button is located at the menu at the bottom of the home and several relevant pages. The user can view all of their clipped coupons for each relevant store, and click on the coupon to open up the scannable code for check-out. Users can see if an item has a coupon if it has a box with an exclamation point next to it.
 > 3. Aisles: The user can view the aisles in which each item is located when viewing more specific details about the product in a store and when viewing their "Current List".
 
+*Features are labeled in the above flow, and all three features are identifiable in the product information page below.*
+
+<p align="center">
+ <img src="Figures/allfeatures.jpeg" width="300" height="600">
+ </p>
+
 ## Test Scenarios
 
 To test each feature, I asked my participant to do what she thought she should do in different scenarios. I asked her to circle and/or draw what she would do, as well as write down what she did for clarity.
