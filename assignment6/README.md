@@ -44,19 +44,13 @@ view book lists
  <img src="hues.png" width="950" height="550">
  </p>
  
-<p align="left">
- <img src="red.png" width="300" height="250">
- </p>
- 
  <p align="center">
+ <img src="red.png" width="300" height="250">
  <img src="blue.png" width="300" height="250">
- </p>
- 
- <p align="right">
  <img src="pinkish.png" width="300" height="250">
  </p>
  
-  <p align="center">
+ <p align="center">
  <img src="beige.png" width="300" height="250">
  </p>
 
