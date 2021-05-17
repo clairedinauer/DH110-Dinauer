@@ -32,11 +32,11 @@ view book lists
 +1:  At least three distinctive screen templates that represent user-interface design with standard graphical components (ex. Material ui component)
 +1: Select one screen template (ex. login-page). Provide at least three design variations with different color schemes (ex. light-mode, dark-mode, hue variation)
 
-## Color-Contrast Check
+
 0: No Evidence of color-contrast check
 +1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
 
-### Color Scheme and Variations
+## Color Scheme and Variations
 
 **Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
 
@@ -44,14 +44,13 @@ view book lists
  <img src="hues.png" width="950" height="550">
  </p>
  
- <p align="center">
- <img src="red.png" width="300" height="250">
- <img src="blue.png" width="300" height="250">
- <img src="pinkish.png" width="300" height="250">
- </p>
  
+ ### Color-Contrast Check
  <p align="center">
- <img src="beige.png" width="300" height="250">
+ <img src="red.png" width="400" height="350">
+ <img src="blue.png" width="400" height="350">
+ <img src="pinkish.png" width="400" height="350">
+ <img src="beige.png" width="400" height="350">
  </p>
 
 
