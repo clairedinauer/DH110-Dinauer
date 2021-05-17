@@ -16,9 +16,9 @@ This prototype allows users to:
 ## Screen Design
  
 <p align="center">
- <img src="layout1.png" width="950" height="430">
- <img src="layout2.png" width="950" height="430">
- <img src="layout3.png" width="950" height="430">
+ <img src="layout1.png" width="600" height="275">
+ <img src="layout2.png" width="600" height="275">
+ <img src="layout3.png" width="600" height="275">
  </p>
 
 ## Color Scheme and Variations
