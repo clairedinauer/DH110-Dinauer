@@ -52,7 +52,7 @@ This prototype allows users to:
 **Buttons**: To direct users' focus, I created buttons with additional graphics or icons to give users' insight into where they will be redirected.
 
  <p align="center">
- <img src="buttons.png" width="800" height="350">
+ <img src="buttons.png" width="900" height="350">
  </p>
 
 **How I Made My Decisions:**
