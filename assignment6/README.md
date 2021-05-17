@@ -7,7 +7,7 @@ This project is for my GrocerySaver app, in which I am adapting my [low-fidelity
 
 ## About the Prototype
 
-This prototype allows users to:
+This prototype allows users to utilize the following tools:
 
 1. **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list <br/>
 2. **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out <br/>
@@ -15,6 +15,7 @@ This prototype allows users to:
 
 ## Screen Design
  
+For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. 
 <p align="center">
  <img src="layout1.png" width="600" height="265">
  <img src="layout2.png" width="600" height="265">
@@ -42,12 +43,16 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
 ## Impression Test Quotations
 
 Most relevant or helpful comments:
-- "I like the color scheme"
-- "
+- "I like the color scheme with the reds"
+- "I think the app is helpful. I wish I could use something like this"
+- "You could probably use some X-out buttons instead of back buttons since it looks confusing when some different screens lead to the same thing" 
+- "The colors make me think of Ralph's or Doordash colors so the red makes sense"
+- "It's hard to tell the recipes just from the name and no pictures"
+- "It's a little odd that the coupons have photos but recipes don't but it's clear enough since there is only one recipe there for now, but otherwise would be hard"
+- "The recipe search looks different than the other search bars"
+- "I can't really tell where to click for the maps? I guess it makes sense to click on the map itself but there is not a button for the text so I'm confused"
 
-+1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
-
-+1: Summary of findings 
+**Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my 
 
 ### Decisions
 
