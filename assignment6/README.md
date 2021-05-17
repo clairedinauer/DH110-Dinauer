@@ -18,7 +18,7 @@ This prototype allows users to:
 **Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
 
 <p align="center">
- <img src="hues.png" width="950" height="450">
+ <img src="hues.png" width="850" height="450">
  </p>
  
 <p align="center">
