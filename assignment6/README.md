@@ -18,13 +18,13 @@ This prototype allows users to:
 **Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
 
 <p align="center">
- <img src="hues.png" width="950" height="600">
+ <img src="hues.png" width="950" height="450">
  </p>
  
 <p align="center">
- <img src="layout1.png" width="950" height="550">
- <img src="layout2.png" width="950" height="550">
- <img src="layout3.png" width="950" height="550">
+ <img src="layout1.png" width="950" height="450">
+ <img src="layout2.png" width="950" height="450">
+ <img src="layout3.png" width="950" height="450">
  </p>
 
 ## Color Scheme and Variations
