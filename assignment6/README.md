@@ -15,27 +15,19 @@ This prototype allows users to:
 
 ## Screen Design
 
-1. Three screen templates
-
-
-3. One screen template with three design variations
-
-+1:  At least three distinctive screen templates that represent user-interface design with standard graphical components (ex. Material ui component)
-+1: Select one screen template (ex. login-page). Provide at least three design variations with different color schemes (ex. light-mode, dark-mode, hue variation)
-
-
-0: No Evidence of color-contrast check
-
-+1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
-
-## Color Scheme and Variations
-
 **Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
 
 <p align="center">
- <img src="hues.png" width="950" height="550">
+ <img src="hues.png" width="950" height="600">
  </p>
  
+<p align="center">
+ <img src="layout1.png" width="950" height="550">
+ <img src="layout2.png" width="950" height="550">
+ <img src="layout3.png" width="950" height="550">
+ </p>
+
+## Color Scheme and Variations
  
  ### Color-Contrast Check
  <p align="center">
@@ -44,7 +36,6 @@ This prototype allows users to:
  <img src="beige.png" width="400" height="350">
  <img src="blue.png" width="400" height="350">
  </p>
-
 
 ## Impression Test
 
