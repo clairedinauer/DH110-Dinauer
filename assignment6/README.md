@@ -47,8 +47,22 @@ This prototype allows users to:
 
 ### Decisions
 
+**Font:** I used the Manrope font with a variety of boldness and text size between 16-30.
+
+**Buttons**: To direct users' focus, I created buttons with additional graphics or icons to give users' insight into where they will be redirected.
+
+ <p align="center">
+ <img src="buttons.png" width="800" height="350">
+ </p>
+
+**How I Made My Decisions:**
+
 1: provide a summary of graphic design including
+
 Typeface family + size
+
 Color scheme: background, primary (default text), focus (ex. button)
+
 Layout grid + spacing
+
 +1: Thoughtful description about how you made the decisions for the graphical interface design 
