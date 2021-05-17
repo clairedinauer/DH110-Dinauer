@@ -16,10 +16,21 @@ This prototype allows users to utilize the following tools:
 ## Screen Design
  
 For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. 
+
 <p align="center">
  <img src="layout1.png" width="600" height="265">
  <img src="layout2.png" width="600" height="265">
  <img src="layout3.png" width="600" height="265">
+ </p>
+
+### Decisions
+
+**Font:** I used the Manrope font with a variety of boldness and text size between 16-30. Spacing was 1.5 where applicable. I was otherwise sure to place any elements a consistent distance apart on each screen.
+
+**Buttons**: To direct users' focus, I created buttons with additional graphics or icons to give users' insight into where they will be redirected.
+
+ <p align="center">
+ <img src="buttons.png" width="400" height="150">
  </p>
 
 ## Color Scheme and Variations
@@ -53,25 +64,3 @@ Most relevant or helpful comments:
 - "I can't really tell where to click for the maps? I guess it makes sense to click on the map itself but there is not a button for the text so I'm confused"
 
 **Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
-
-### Decisions
-
-**Font:** I used the Manrope font with a variety of boldness and text size between 16-30.
-
-**Buttons**: To direct users' focus, I created buttons with additional graphics or icons to give users' insight into where they will be redirected.
-
- <p align="center">
- <img src="buttons.png" width="400" height="150">
- </p>
-
-**How I Made My Decisions:**
-
-1: provide a summary of graphic design including
-
-Typeface family + size
-
-Color scheme: background, primary (default text), focus (ex. button)
-
-Layout grid + spacing
-
-+1: Thoughtful description about how you made the decisions for the graphical interface design 
