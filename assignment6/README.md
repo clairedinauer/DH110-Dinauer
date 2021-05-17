@@ -32,12 +32,6 @@ view book lists
 +1:  At least three distinctive screen templates that represent user-interface design with standard graphical components (ex. Material ui component)
 +1: Select one screen template (ex. login-page). Provide at least three design variations with different color schemes (ex. light-mode, dark-mode, hue variation)
 
-## Impression Test
-
-0: No evidence of the impression test
-+1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
-+1: Summary of findings 
-
 ## Color-Contrast Check
 0: No Evidence of color-contrast check
 +1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
@@ -47,27 +41,31 @@ view book lists
 **Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
 
 <p align="center">
- <img src="hues.png" width="550" height="950">
+ <img src="hues.png" width="950" height="550">
  </p>
  
 <p align="left">
- <img src="red.png" width="550" height="950">
+ <img src="red.png" width="300" height="250">
  </p>
  
  <p align="center">
- <img src="blue.png" width="550" height="950">
+ <img src="blue.png" width="300" height="250">
  </p>
  
  <p align="right">
- <img src="pinkish.png" width="550" height="950">
+ <img src="pinkish.png" width="300" height="250">
  </p>
  
   <p align="center">
- <img src="beige.png" width="550" height="950">
+ <img src="beige.png" width="300" height="250">
  </p>
- 
 
-### Layout grid + spacing
+
+## Impression Test
+
+0: No evidence of the impression test
++1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
++1: Summary of findings 
 
 ### Decisions
 
