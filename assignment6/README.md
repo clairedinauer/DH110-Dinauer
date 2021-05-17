@@ -7,33 +7,25 @@ This project is for my GrocerySaver app, in which I am adapting my [low-fidelity
 
 ## About the Prototype
 
-**About the Prototype**
-
 This prototype allows users to:
 
 1. **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list <br/>
 2. **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out <br/>
 3. **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
 
-
-search by keyword
-search by adding category and keyword tags
-view search results
-search for books similar to a specific book
-look at book information
-add a book to a book list
-view book lists
-
 ## Screen Design
 
 1. Three screen templates
-2. One screen template with three design variations
+
+
+3. One screen template with three design variations
 
 +1:  At least three distinctive screen templates that represent user-interface design with standard graphical components (ex. Material ui component)
 +1: Select one screen template (ex. login-page). Provide at least three design variations with different color schemes (ex. light-mode, dark-mode, hue variation)
 
 
 0: No Evidence of color-contrast check
+
 +1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
 
 ## Color Scheme and Variations
@@ -48,16 +40,18 @@ view book lists
  ### Color-Contrast Check
  <p align="center">
  <img src="red.png" width="400" height="350">
- <img src="blue.png" width="400" height="350">
  <img src="pinkish.png" width="400" height="350">
  <img src="beige.png" width="400" height="350">
+ <img src="blue.png" width="400" height="350">
  </p>
 
 
 ## Impression Test
 
 0: No evidence of the impression test
+
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
+
 +1: Summary of findings 
 
 ### Decisions
