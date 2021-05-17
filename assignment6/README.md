@@ -14,12 +14,6 @@ This prototype allows users to:
 3. **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
 
 ## Screen Design
-
-**Three Different Hues:** I created a basic home page, darkmode home page, and a homepage with blue hues.
-
-<p align="center">
- <img src="hues.png" width="850" height="450">
- </p>
  
 <p align="center">
  <img src="layout1.png" width="950" height="430">
@@ -29,6 +23,14 @@ This prototype allows users to:
 
 ## Color Scheme and Variations
  
+### Three Different Hues
+
+I created a basic home page, darkmode home page, and a homepage with blue hues, as shown below. I then tested out the accessibility to viewing these colors using the Color Tool interface.
+
+<p align="center">
+ <img src="hues.png" width="850" height="450">
+ </p>
+ 
  ### Color-Contrast Check
  <p align="center">
  <img src="red.png" width="400" height="350">
@@ -37,8 +39,9 @@ This prototype allows users to:
  <img src="blue.png" width="400" height="350">
  </p>
 
-## Impression Test
+## Impression Test Quotations
 
+- "
 0: No evidence of the impression test
 
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
