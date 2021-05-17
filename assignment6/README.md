@@ -41,8 +41,9 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
 
 ## Impression Test Quotations
 
+Most relevant or helpful comments:
+- "I like the color scheme"
 - "
-0: No evidence of the impression test
 
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
 
