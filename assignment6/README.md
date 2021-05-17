@@ -52,7 +52,7 @@ Most relevant or helpful comments:
 - "The recipe search looks different than the other search bars"
 - "I can't really tell where to click for the maps? I guess it makes sense to click on the map itself but there is not a button for the text so I'm confused"
 
-**Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my 
+**Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
 
 ### Decisions
 
