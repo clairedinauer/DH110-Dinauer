@@ -28,7 +28,7 @@ This prototype allows users to:
 I created a basic home page, darkmode home page, and a homepage with blue hues, as shown below. I then tested out the accessibility to viewing these colors using the Color Tool interface.
 
 <p align="center">
- <img src="hues.png" width="850" height="450">
+ <img src="hues.png" width="750" height="450">
  </p>
  
  ### Color-Contrast Check
