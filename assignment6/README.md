@@ -37,8 +37,6 @@ For my design, I included the above features and tools while focusing on making 
 
 ### Wireflow
 
-The wireflow for the GrocerySaver app is depicted below. 
-
 <p align="center">
  <img src="wireflow.png">
  </p>
