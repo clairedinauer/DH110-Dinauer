@@ -57,7 +57,7 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
 
 ### Wireflow
 
-I created 14 frames on Figma with which participants could interact with my high-fidelity prototype. 
+I created 15 frames on Figma with which participants could interact with my high-fidelity prototype. Three of the 15 frames are different versions of the home page in varying hues, as shown above. Users can access the "light mode" and "dark mode" of these home pages by tapping on their profile icon to access their profile and settings, then select light mode or dark mode in preferences.
 - The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). 
 - The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
 
@@ -103,7 +103,7 @@ The cognitive walkthrough video for the above tasks can be viewed [**here**](htt
 
 I also conducted a cognitive walkthrough with a participant to test usability. The video recording can be accessed [**here**](https://drive.google.com/file/d/1ghwZbRHsA5A8UHsrU5R-wzeu03ML3NoN/view?usp=sharing).
 
-**Summary:**
+**Summary:** By carrying out the cognitive walkthrough myself, I noticed where some parts of my app may be confusing. For example, I was having trouble with clicking the "back" buttons for my recipe and QR code pages, which ended up directing me to my recipes page and my coupons page rather than the actual last page I had been on. Hence, I need to look into how to direct the back button based on previous actions of the user. I also noticed that some of the icons for my buttons were not showing up, which is also an issue I need to fix to help users with clarity of where a button with direct them. I specifically had this issue on the location adjustment page. Additionally, by watching my participant carry out these tasks, I was able to note what she intuitively clicked on based on the tasks asked of her. I realized that I may need to make the search bar on the home page larger, as it seemed as though she did not fully realize that it was there for use.
 
 ## Impression Test Quotations
 
@@ -120,7 +120,6 @@ Most relevant or helpful comments:
 **Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
 
 ## Reflection
-
 
 +1: Summary of the process, what went smoothly or differently from your expectation
 
