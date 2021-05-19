@@ -15,9 +15,10 @@ This prototype allows users to utilize the following tools:
 
 ## Screen Design
  
-For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. 
+For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. There are three variations of the home page with different colors.
 
 <p align="center">
+ <img src="homepages.png" width="600" height="265">
  <img src="layout1.png" width="600" height="265">
  <img src="layout2.png" width="600" height="265">
  <img src="layout3.png" width="600" height="265">
@@ -43,6 +44,15 @@ For my design, I included the above features and tools while focusing on making 
  
 **Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. 
 
+<p align="center">
+ <img src="searchinfo.png" width="300" height="580">
+ <img src="iteminfo.png" width="300" height="580">
+ </p>
+ 
+ <p align="center">
+ <img src="recipeswireflow.png" width="600" height="265">
+ </p>
+ 
 **Aisle and Coupons Features:** For the second task, I asked my participant to check their preferred location and confirm that Trader Joe's and Ralph's were selected as their stores. I then asked the participant to create a new list, search for Salmon, choose the Salmon with a coupon, and open the coupon to view the QR code. I asked the participant to then view their current list and tell me where their products are located in each store and their estimated subtotal.
 
 ## Color Scheme and Variations
