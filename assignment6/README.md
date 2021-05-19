@@ -40,10 +40,8 @@ For my design, I included the above features and tools while focusing on making 
 
 I created 14 frames with which participants could interact with my high-fidelity prototype. I created the design and wireflow on Figma. The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
 <p align="center">
- <img src="wireflow.png">
+ <img src="wireflow.png" width="400" height="800">
  </p>
  
 ### Task #1
