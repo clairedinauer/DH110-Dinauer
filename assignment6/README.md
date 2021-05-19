@@ -42,7 +42,9 @@ For my design, I included the above features and tools while focusing on making 
  <img src="wireflow.png">
  </p>
  
-**Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. 
+### Task #1
+ 
+**Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
 
 <p align="center">
  <img src="searchinfo.png" width="300" height="580">
@@ -53,7 +55,18 @@ For my design, I included the above features and tools while focusing on making 
  <img src="recipeswireflow.png" width="600" height="265">
  </p>
  
-**Aisle and Coupons Features:** For the second task, I asked my participant to check their preferred location and confirm that Trader Joe's and Ralph's were selected as their stores. I then asked the participant to create a new list, search for Salmon, choose the Salmon with a coupon, and open the coupon to view the QR code. I asked the participant to then view their current list and tell me where their products are located in each store and their estimated subtotal.
+### Task #2
+
+**Aisle and Coupons Features:** For the second task, I asked my participant to check their preferred location and confirm that Trader Joe's and Ralph's were selected as their stores. I then asked the participant to create a new list, search for Salmon, choose the Salmon with a coupon, and open the coupon to view the QR code. I asked the participant to then view their current list and tell me where their products are located in each store and their estimated subtotal. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
+
+<p align="center">
+ <img src="ItemInformation2.png" width="200" height="350">
+ <img src="mylists.png" width="400" height="350">
+ </p>
+ 
+ <p align="center">
+ <img src="ClippedCoupons.png" width="600" height="265">
+ </p>
 
 ## Color Scheme and Variations
  
