@@ -18,7 +18,7 @@ This prototype allows users to utilize the following tools:
 For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. There are three variations of the home page with different colors.
 
 <p align="center">
- <img src="homepages.png" width="600" height="265">
+ <img src="homepages.png" width="500" height="265">
  <img src="layout1.png" width="600" height="265">
  <img src="layout2.png" width="600" height="265">
  <img src="layout3.png" width="600" height="265">
