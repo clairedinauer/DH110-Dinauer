@@ -34,11 +34,32 @@ For my design, I included the above features and tools while focusing on making 
  <img src="buttons.png" width="400" height="150">
  </p>
 
+
+## Color Scheme and Variations
+ 
+### Three Different Hues
+
+I created a basic home page, darkmode home page, and a homepage with blue hues, as shown below. I then tested out the accessibility to viewing these colors using the Color Tool interface.
+
+<p align="center">
+ <img src="hues.png" width="750" height="450">
+ </p>
+ 
+ ### Color-Contrast Check
+ <p align="center">
+ <img src="red.png" width="400" height="350">
+ <img src="pinkish.png" width="400" height="350">
+ <img src="beige.png" width="400" height="350">
+ <img src="blue.png" width="400" height="350">
+ </p>
+ 
 ## Interactive Wireflow and Tasks
 
 ### Wireflow
 
-I created 14 frames on Figma with which participants could interact with my high-fidelity prototype. The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
+I created 14 frames on Figma with which participants could interact with my high-fidelity prototype. 
+- The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). 
+- The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
 
 <p align="center">
  <img src="wireflow.png" width="550" height="900">
@@ -72,24 +93,6 @@ The participant is expected to complete this task by clicking on the map or loca
  
  <p align="center">
  <img src="ClippedCoupons.png" width="400" height="350">
- </p>
-
-## Color Scheme and Variations
- 
-### Three Different Hues
-
-I created a basic home page, darkmode home page, and a homepage with blue hues, as shown below. I then tested out the accessibility to viewing these colors using the Color Tool interface.
-
-<p align="center">
- <img src="hues.png" width="750" height="450">
- </p>
- 
- ### Color-Contrast Check
- <p align="center">
- <img src="red.png" width="400" height="350">
- <img src="pinkish.png" width="400" height="350">
- <img src="beige.png" width="400" height="350">
- <img src="blue.png" width="400" height="350">
  </p>
 
 ## Cognitive Walkthrough of Tasks
