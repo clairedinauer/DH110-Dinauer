@@ -65,7 +65,7 @@ For my design, I included the above features and tools while focusing on making 
  </p>
  
  <p align="center">
- <img src="ClippedCoupons.png" width="350" height="250">
+ <img src="ClippedCoupons.png" width="325" height="275">
  </p>
 
 ## Color Scheme and Variations
