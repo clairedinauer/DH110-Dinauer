@@ -94,6 +94,13 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
 
 ## Cognitive Walkthrough of Tasks
 
+The cognitive walkthrough video for the above tasks can be viewed [**here**](https://drive.google.com/file/d/13Ja2a8IxbzpzPuKLzyjLlgQ4pSWs11_I/view?usp=sharing).
+- Task 1: 0:00-0:54
+- Task 2: 0:54-2:24
+
+I also conducted a cognitive walkthrough with a participant to test usability. The video recording can be accessed [**here**](https://drive.google.com/file/d/1ghwZbRHsA5A8UHsrU5R-wzeu03ML3NoN/view?usp=sharing).
+
+**Summary:**
 
 ## Impression Test Quotations
 
