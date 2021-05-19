@@ -107,6 +107,8 @@ I also conducted a cognitive walkthrough with a participant to test usability. T
 
 ## Impression Test Quotations
 
+I interviewed a friend as my participant to gauge their first-impressions of the app, its design, and functionality. Below are some of the most relevant quotations from our conversation.
+
 Most relevant or helpful comments:
 - "I like the color scheme with the reds"
 - "I think the app is helpful. I wish I could use something like this"
@@ -117,7 +119,7 @@ Most relevant or helpful comments:
 - "The recipe search looks different than the other search bars"
 - "I can't really tell where to click for the maps? I guess it makes sense to click on the map itself but there is not a button for the text so I'm confused"
 
-**Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
+**Summary:** My participant as highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
 
 ## Reflection
 
