@@ -38,7 +38,7 @@ For my design, I included the above features and tools while focusing on making 
 
 ### Wireflow
 
-I created 14 frames with which participants could interact with my high-fidelity prototype. I created the design and wireflow on Figma. The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
+I created 14 frames on Figma with which participants could interact with my high-fidelity prototype. The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1). The interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=157%3A29&scaling=scale-down&page-id=0%3A1).
 
 <p align="center">
  <img src="wireflow.png" width="550" height="900">
@@ -46,7 +46,9 @@ I created 14 frames with which participants could interact with my high-fidelity
  
 ### Task #1
  
-**Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
+**Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. 
+
+To carry out the task, the participant is expected to start on the home page, then use the search feature at the top of the page to begin searching for the Salmon. Looking at this search screen, the participant would then be expected to tap on the Sockeye Salmon, which has a recipe and coupon icon. The participant could then "save" or "view" the recipe to look at at. If they "save" the recipe, the participant could view it from their "Recipes" page. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
 
 <p align="center">
  <img src="searchinfo.png" width="200" height="400">
@@ -59,7 +61,9 @@ I created 14 frames with which participants could interact with my high-fidelity
  
 ### Task #2
 
-**Aisle and Coupons Features:** For the second task, I asked my participant to check their preferred location and confirm that Trader Joe's and Ralph's were selected as their stores. I then asked the participant to create a new list, search for Salmon, choose the Salmon with a coupon, and open the coupon to view the QR code. I asked the participant to then view their current list and tell me where their products are located in each store and their estimated subtotal. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
+**Aisle and Coupons Features:** For the second task, I asked my participant to check their preferred location and confirm that Trader Joe's and Ralph's were selected as their stores. I then asked the participant to create a new list, search for Salmon, choose the Salmon with a coupon, and open the coupon to view the QR code. I asked the participant to then view their current list and tell me where their products are located in each store and their estimated subtotal. 
+
+The participant is expected to complete this task by clicking on the map or location text on the home page to check their location. Then, they should click on the "Create New List" button, which will take them to a search and current list page. They will again navigate to the search page via the search bar, where they can "search" for salmon, find the coupon, and view the QR code. Then, they are expected to go to their "lists" page to access their current list and see where the products on their list are located in the respective stores along with their subtotal. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
 
 <p align="center">
  <img src="ItemInformation2.png" width="200" height="350">
@@ -67,7 +71,7 @@ I created 14 frames with which participants could interact with my high-fidelity
  </p>
  
  <p align="center">
- <img src="ClippedCoupons.png" width="425" height="350">
+ <img src="ClippedCoupons.png" width="400" height="350">
  </p>
 
 ## Color Scheme and Variations
@@ -88,6 +92,9 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
  <img src="blue.png" width="400" height="350">
  </p>
 
+## Cognitive Walkthrough of Tasks
+
+
 ## Impression Test Quotations
 
 Most relevant or helpful comments:
@@ -103,3 +110,8 @@ Most relevant or helpful comments:
 **Summary:** My participant was highly receptive to the color scheme and font that I used. Having my participant walk through the tasks I expected of my target users. By walking through the search, coupon, and recipe features, my participant was able to give me insight into what did and didn't work about my design beyond aesthetics, moreso able to gauge the clarity of its functionality.
 
 ## Reflection
+
+
++1: Summary of the process, what went smoothly or differently from your expectation
+
++1: What you would change or design differently based on the feedback you got from the prototype testing. 
