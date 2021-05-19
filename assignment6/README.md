@@ -49,8 +49,8 @@ I created 14 frames with which participants could interact with my high-fidelity
 **Recipe Feature:** For the first task, I asked my participant to start a product search and look for Salmon that would include a recipe. I then asked the participant to "save" the recipe, and go to their recipes to open and view it. The following screenshots of my wireframe depict the main frames that I intended for the participant to use to complete this task.
 
 <p align="center">
- <img src="searchinfo.png" width="300" height="580">
- <img src="iteminfo.png" width="300" height="580">
+ <img src="searchinfo.png" width="200" height="400">
+ <img src="iteminfo.png" width="200" height="400">
  </p>
  
  <p align="center">
@@ -67,7 +67,7 @@ I created 14 frames with which participants could interact with my high-fidelity
  </p>
  
  <p align="center">
- <img src="ClippedCoupons.png" width="325" height="275">
+ <img src="ClippedCoupons.png" width="425" height="350">
  </p>
 
 ## Color Scheme and Variations
