@@ -46,6 +46,9 @@ I created a basic home page, darkmode home page, and a homepage with blue hues, 
  </p>
  
  ### Color-Contrast Check
+ 
+I primarily used the #E32E2E red, #F3A4A4 red, and #FCFAF2 beige in my selection of the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text in order to be legible. For the third color option of my home screen, I used #27A2AB blue, which permitted the usage of black or white text. I only used white text for some of the text in the dark mode home page and for the "Create New List" button, which was either the darker red (or the blue on the alternate home page).
+
  <p align="center">
  <img src="red.png" width="400" height="350">
  <img src="pinkish.png" width="400" height="350">
@@ -123,6 +126,6 @@ Most relevant or helpful comments:
 
 ## Reflection
 
-+1: Summary of the process, what went smoothly or differently from your expectation
+I overall think that this high-fidelity prototype assignment went well and was a strong start to getting me to think more about the interactivity, readability, and usability of my platform. I ran into several issues while using the Figma platform with some icons or text sometimes not showing up in the prototype, as well as with being able to fully execute the functionality that I wanted my program to. This is specifically in regards to some of my back buttons, and some buttons leading to the the same page; hence, some of the back buttons did not actually direct myself or my participants to their last page. 
 
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
+Based on the feedback I got from the impression test and prototype testing, I will create a copy of the pages that multiple buttons lead to in order to ensure that the back buttons actually lead to a user's last page. I also plan on making some of the font or features (i.e. search bar) larger and more cohesive. I do not want the platform to appear clustered, and so I also will consider this in my edits.
