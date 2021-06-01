@@ -4,7 +4,7 @@
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
 
 <p align="center">
- <img src="grocerystore.jpg" width="900" height="675">
+ <img src="grocerystore.jpg" width="900" height="650">
  </p>
 
  
