@@ -6,7 +6,7 @@
 <p align="center">
  <img src="grocerystore.jpg" width="900" height="650">
  </p>
-
+###### *Credit: GETTY Images*
  
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
