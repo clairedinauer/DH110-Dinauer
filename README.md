@@ -22,8 +22,8 @@ This project addressess users' esteem needs, involving a sense of prestige and a
 ## Competitor analysis [assignment01 & 02]:
 *Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated*
 
-- [Assignment01](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)
-- [Assignment02](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)
+- [**Assignment01**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)
+- [**Assignment02**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)
 
 ## User research [contextual inquiry, assignment04]:
 *Summary and link to your assignment folder*
