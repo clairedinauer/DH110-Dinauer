@@ -16,11 +16,11 @@ Sourced from [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate
 ### Website 1: [Craigslist](https://losangeles.craigslist.org/)
 *Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site has been around since 1995 and has served to operate like the classifieds section of a newspaper.*
 
-![Craigslist Website](craigslist.png)
+![Craigslist Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png)
 
 *Craigslist Webpage*
 
-![Craigslist Sidebar](craigslist_tab.png)
+![Craigslist Sidebar](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist_tab.png)
 
 *Craigslist Sidebar*
 
@@ -43,11 +43,11 @@ Heuristic & Description | Heuristic Evaluation | Improvement | Rating
 ### Website 2: [Facebook Marketplace](https://www.facebook.com/marketplace/)
 *Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace also caters users' home page to previously viewed items or to items that the website believes the user may be interested in.*
 
-![Facebook Marketplace Website](fbmarket.png)
+![Facebook Marketplace Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png)
 
 *Facebook Marketplace Home*
 
-![FB Market Sidebar 1](fbmarket_tab1.png)![FB Market Sidebar 2](fbmarket_tab2.png)
+![FB Market Sidebar 1](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab1.png)![FB Market Sidebar 2](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab2.png)
 
 *Facebook Marketplace Tabs*
 
