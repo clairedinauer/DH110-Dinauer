@@ -4,8 +4,9 @@
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
 
 <p align="center">
- <img src="groceries.jpeg">
+ <img src="groceries.jpeg" width="500" height="265">
  </p>
+
  
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
