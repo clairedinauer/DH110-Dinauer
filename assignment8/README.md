@@ -3,6 +3,10 @@
 
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
 
+<p align="center">
+ <img src="groceries.jpeg">
+ </p>
+ 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
 
