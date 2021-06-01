@@ -1,5 +1,5 @@
 # Grocery Saver
-### Claire Dinauer
+### DH 110 Project by Claire Dinauer
 
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
 
