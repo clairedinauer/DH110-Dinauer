@@ -48,13 +48,13 @@ Facebook Martketplace is an open exchange where users can buy and sell new and p
  <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="390">
  </p>
 
-Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1).
+[**Read more about my evaluation of these two platforms here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1).
 
 ### Summary of Pilot Usability Test with Craigslist
 
 I conducted a Usability Test (UT) with Craigslist to observe how people use the website, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. This UT allowed me to identify what users found good or bad about the site design. Practicing a UT with a website such as Craislist helped me get used to the process of interviewing users and learning what information I wanted to get out of users for my own project. This also helped me with curating my own UT tasks to observe my participants' behaviors, attitudes, and thoughts while navigating my product.
 
-Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2).
+[**Read more about my Usability Test here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2).
 
 ## User Research 
 
