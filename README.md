@@ -58,6 +58,24 @@ I conducted a Usability Test (UT) with Craigslist to observe how people use the 
 
 ## User Research 
 
+> **Demographics**: Adults, people with families, students (high school or above), older adults, or elders
+> 
+> **Preferences**: Users who try to have organized, efficient shopping trips; users who try to go to more than one store to purchase different products; users who try to get the best price when shopping (e.g. clipping coupons, price comparisons)
+> 
+> **Expertise**: Users do not need a specific level of expertise for this project other than having the experience of grocery shopping
+
+This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
+
+During the inquiry, I gave the user two tasks to complete:
+1. Creating a grocery list by-hand (pen and paper): I asked the user to organize their shopping list as they normally would when going to the grocery store. I asked questions regarding why the user set up their list a certain way.
+2. Creating a grocery list in-app (Ralph's App): I asked the user to create a shopping list in the Ralph's app and play around with the interface. I asked questions regarding the reliability and usability of the app to understand the user's preferences.
+
+My participant's active description of what she was doing during each task allowed me to better understand the thought process of users when creating shopping lists, whether written or digital. Additionally, I enjoyed the feedback and values that the participant shared while using the Ralph's app, as this allowed me to think more about how to maximize the ease and efficiency of creating a digital shopping list for consumers to use across different grocery store locations.
+
+[**Read More about my Contextual Inquiry here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment3)
+
+### UX Storytelling 
+
 The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
 
 <p align="center">
@@ -76,13 +94,14 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 
 [**Read More**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
 
-### UX Storytelling 
+
 [persona+scenario, assignment05]
 *Summary and link to your assignment folder*
 
-[**Assignment 5**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
+[**Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
 ## Wireframe and Graphic Design Element Variation 
+
 
 [assignment06 + part of 07]
 
