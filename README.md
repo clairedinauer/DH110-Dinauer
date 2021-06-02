@@ -28,7 +28,8 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 ## Competitor Analysis 
 
 ### Craigslist and Facebook Marketplace Summaries
-> As long as I can remember, my parents enjoyed using Craigslist to locate affordable furniture and services for our family to use. However, scrolling through Craigslist myself, I consistently found fishy listings, sometimes many of the same exact listing, with poor or unclear options for contacting the lister that required little-to-no verification of identity. Additionally, since attending college, my eyes have been opened to different local virtual marketplaces that made being a college student easier and more affordable, specifically in terms of purchasing textbooks from other students for my classes or purchasing used furniture for my apartment. I, along with many other university students, use Facebook Marketplace to post listings of our items to students or other individuals within a certain radius of our loaction. Looking at these two sites, I wanted to delve into what makes a "community marketplace" user-friendly and safe for a wide range of age groups, and what may need to be improved to optimize safety, accessibility, and overall site design.
+> I chose to look at Craigslist and Facebook Marketplace to delve into what makes a "community marketplace" user-friendly and safe for a wide range of age groups, and what may need to be improved to optimize safety, accessibility, and overall site design. Scrolling through Craigslist myself in the past, I consistently found fishy listings, sometimes many of the same exact listing, with poor or unclear options for contacting the lister that required little-to-no verification of identity. Since attending college, my eyes have been opened to different local virtual marketplaces that made being a college student easier and more affordable, specifically in terms of purchasing textbooks from other students for my classes or purchasing used furniture for my apartment. I, along with many other university students, use Facebook Marketplace to post listings of our items to students or other individuals within a certain radius of our loaction. 
+> Looking at these two websites helped me think about what I would want my own platform to look like when designing a type of "community marketplace," or a site or app in which users could have easy, trustworth access to information about products in their area.
 
 [**Craigslist**](https://losangeles.craigslist.org/)
 
@@ -40,10 +41,6 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 
 *Craigslist Webpage*
 
-![Craigslist Sidebar](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist_tab.png)
-
-*Craigslist Sidebar*
-
 [**Facebook Marketplace**](https://www.facebook.com/marketplace/)
 
 *Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace also caters users' home page to previously viewed items or to items that the website believes the user may be interested in.*
@@ -54,17 +51,11 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 
 *Facebook Marketplace Home*
 
-![FB Market Sidebar 1](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab1.png)![FB Market Sidebar 2](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab2.png)
-
-*Facebook Marketplace Tabs*
-
 Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)!
 
 ### Summary of Pilot Usability Test with Craigslist
 
-I conducted a Usability Test (UT) with Craigslist to observe how people use the website, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. This UT allowed me to identify what users found good or bad about the site design. 
-
-Practicing a UT with a website such as Craislist helped me get used to the process of interviewing users and learning what information I wanted to get out of users for my own project. This also helped me with curating my own UT tasks to observe my participants' behaviors, attitudes, and thoughts while navigating my product.
+I conducted a Usability Test (UT) with Craigslist to observe how people use the website, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. This UT allowed me to identify what users found good or bad about the site design. Practicing a UT with a website such as Craislist helped me get used to the process of interviewing users and learning what information I wanted to get out of users for my own project. This also helped me with curating my own UT tasks to observe my participants' behaviors, attitudes, and thoughts while navigating my product.
 
 Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)!
 * Check out my [Moderator Script/UT Survey](https://forms.gle/ykcCgg37MaNEwaaPA) 
