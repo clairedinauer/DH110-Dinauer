@@ -144,21 +144,20 @@ This prototype allows users to utilize the following tools:
 I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
 
  <p align="center">
- <img src="colorcheck.png" width="550" height="600">
+ <img src="colorcheck.png" width="550" height="550">
  </p>
  
+
+**Summary Statement**
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
 
 [**Assignment 7**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment7)
 
 (functional/interactive prototype, assignment08)
 
-*Summary statement and link to or an embedded prototype*
+**High-Fidelity Prototype on Figma**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
-
-
-[**Assignment 8**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment7)
 
 ## Optional evaluation and revision history 
 *Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)*
