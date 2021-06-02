@@ -58,13 +58,13 @@ I conducted a Usability Test (UT) with Craigslist to observe how people use the 
 
 ## User Research 
 
+This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
+
 > **Demographics**: Adults, people with families, students (high school or above), older adults, or elders
 > 
 > **Preferences**: Users who try to have organized, efficient shopping trips; users who try to go to more than one store to purchase different products; users who try to get the best price when shopping (e.g. clipping coupons, price comparisons)
 > 
 > **Expertise**: Users do not need a specific level of expertise for this project other than having the experience of grocery shopping
-
-This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
 
 During the inquiry, I gave the user two tasks to complete:
 1. Creating a grocery list by-hand (pen and paper): I asked the user to organize their shopping list as they normally would when going to the grocery store. I asked questions regarding why the user set up their list a certain way.
@@ -93,7 +93,6 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 2. Aisle labeling for each product in the shopping list
 
 [**Read more about UX Storytelling here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
-
 
 ## Wireframe and Graphic Design Element Variation 
 ### Low-Fidelity Prototype 
@@ -126,33 +125,35 @@ Supported features for these prototype tasks include:
 * **Shopping Lists**: The user can create new lists and view their current list.
 * **Aisles**: The user can view the aisles in which each item is located when viewing more specific details about the product in a store and when viewing their current list
 
-### Revisions to the Prototype
+### Evaluations and Revisions to the Prototype
 
 Based on my participant's feedback, I changed several aspects of the app layout, icons, and functionality, while adjusting any tasks accordingly for the final prototype. I encountered concerns about the app appearing too complicated based on my user's actions and feedback, in which she seemed to try to complete each task in whatever way seemed to be the fastest. Going forward, I wanted to make edits to ensure that all the features of the app are identifiable, allowing users to take advantage of what the app can do.
 
 [**Read more about my Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
 
+## High-Fidelity Prototype 
 
-## Low-Fidelity Prototype 
-(wireflow, assignment06)
+This prototype allows users to utilize the following tools:
+1. **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list
+2. **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out
+3. **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
 
 
+**Colors**
+I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
+
+ <p align="center">
+ <img src="colorcheck.png" width="500" height="700">
+ </p>
+ 
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
 
 [**Assignment 7**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment7)
 
-
-
-
-*Summary and link to the sketches (may contains the multiple versions and evaluation history)*
-
-[**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
-
-## High-Fidelity Prototype 
 (functional/interactive prototype, assignment08)
-*Summary statement and link to or an embedded prototype*
 
+*Summary statement and link to or an embedded prototype*
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
@@ -166,5 +167,7 @@ Based on my participant's feedback, I changed several aspects of the app layout,
 
 ## Conclusion 
 what did you learn throughout the process?
+
+Moreover, I was grateful for all of the feedback 
 
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
