@@ -36,34 +36,26 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 *Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.*
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png" width="600" height="300">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png" width="600" height="425">
  </p>
- 
-![Craigslist Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png)
-
-*Craigslist Webpage*
+*Image of Craigslist Webpage*
 
 #### [**Facebook Marketplace**](https://www.facebook.com/marketplace/)
 
 *Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.*
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="300">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="425">
  </p>
- 
-![Facebook Marketplace Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png)
+*Image of Facebook Marketplace Home*
 
-*Facebook Marketplace Home*
-
-Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)!
+Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1).
 
 ### Summary of Pilot Usability Test with Craigslist
 
 I conducted a Usability Test (UT) with Craigslist to observe how people use the website, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. This UT allowed me to identify what users found good or bad about the site design. Practicing a UT with a website such as Craislist helped me get used to the process of interviewing users and learning what information I wanted to get out of users for my own project. This also helped me with curating my own UT tasks to observe my participants' behaviors, attitudes, and thoughts while navigating my product.
 
-Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)!
-* Check out my [Moderator Script/UT Survey](https://forms.gle/ykcCgg37MaNEwaaPA) 
-* Check out my [UT video](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
+Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2).
 
 ## User Research 
 [contextual inquiry, assignment04]:
