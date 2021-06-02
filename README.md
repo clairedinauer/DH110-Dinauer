@@ -57,8 +57,14 @@ I conducted a Usability Test (UT) with Craigslist to observe how people use the 
 Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2).
 
 ## User Research 
-[contextual inquiry, assignment04]:
-*Summary and link to your assignment folder*
+
+The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
+
+I created two personas, Jacob Stern and Maya Hao, to demonstrate how some of my target users may use the Grocery Saver platform. I specifically focused on the following key design features for the scenarios I created for Jacob and Maya:
+1. Digital shopping list with suggested coupons and recipe recommendations for each product
+2. Aisle labeling for each product in the shopping list
+
+
 
 <p align="center">
  <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/jacobpersona.png" width="420" height="260">
@@ -70,6 +76,7 @@ Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH
  <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/mayastorygreen.png" width="420" height="260">
  </p>
 
+*Summary and link to your assignment folder*
 [**Assignment 4**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
 
 ### UX Storytelling 
