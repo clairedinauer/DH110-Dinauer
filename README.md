@@ -99,7 +99,7 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 ## Wireframe and Graphic Design Element Variation 
 
  <p align="center">
- <img src="assignment5/flow.jpeg" width="400" height="230">
+ <img src="assignment5/flow.jpeg" width="400" height="800">
  </p>
 
 [**Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
