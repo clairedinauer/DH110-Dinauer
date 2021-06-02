@@ -144,7 +144,7 @@ This prototype allows users to utilize the following tools:
 I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
 
  <p align="center">
- <img src="colorcheck.png" width="500" height="700">
+ <img src="colorcheck.png" width="550" height="600">
  </p>
  
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
