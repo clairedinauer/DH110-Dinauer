@@ -45,7 +45,7 @@ Craigslist is a website for viewing and posting advertisements or listings devot
 Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="425">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="390">
  </p>
 
 Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1).
