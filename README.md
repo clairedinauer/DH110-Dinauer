@@ -12,7 +12,7 @@ A DH110 Project by Claire Dinauer
  </p>
 
 
-## Introduction: a brief information about the project. 
+## Introduction: 
 *What is the project about? The motivation of the project and possible contribution.*
 
 This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
@@ -62,3 +62,6 @@ This project addressess users' esteem needs, involving a sense of prestige and a
 ## Conclusion: what did you learn throughout the process?
 
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
