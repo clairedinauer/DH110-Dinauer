@@ -5,7 +5,7 @@
 ###### *Credit: GETTY Images*
 
 # Grocery Saver
-A DH110 Project by Claire Dinauer
+DH110 UX/UI Project by Claire Dinauer
 
 <p align="center">
  <img src="log_in.png" width="300" height="580">
@@ -17,7 +17,7 @@ A DH110 Project by Claire Dinauer
 
 This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
 
-## Design Statemen: 
+## Design Statement 
 *What is the issue and Why do you think it is important to resolve that issue by your project?*
 
 This project addressess users' esteem needs, involving a sense of prestige and a feeling of accomplishment. While the project may seem to address physiological needs on the surface due to its enhancement of food accessibility, the project overarchingly targets users' esteem needs because users are likely to feel more accomplished after completing their grocery shopping in a timely, costly manner.
@@ -27,6 +27,7 @@ This project addressess users' esteem needs, involving a sense of prestige and a
 *Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated*
 
 - [**Assignment01**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)
+- 
 - [**Assignment02**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)
 
 ## User Research 
