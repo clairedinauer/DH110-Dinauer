@@ -74,7 +74,7 @@ My participant's active description of what she was doing during each task allow
 
 [**Read More about my Contextual Inquiry here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment3)
 
-### UX Storytelling 
+## UX Storytelling 
 
 The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
 
@@ -92,15 +92,17 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 1. Digital shopping list with suggested coupons and recipe recommendations for each product
 2. Aisle labeling for each product in the shopping list
 
-[**Read More**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
+[**Read more about UX Storytelling here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
 
 
-[persona+scenario, assignment05]
-*Summary and link to your assignment folder*
-
-[**Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
 ## Wireframe and Graphic Design Element Variation 
+
+ <p align="center">
+ <img src="assignment5/flow.jpeg" width="400" height="230">
+ </p>
+
+[**Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
 
 [assignment06 + part of 07]
@@ -111,6 +113,10 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 
 ## Low-Fidelity Prototype 
 (wireflow, assignment06)
+
+The purpose for conducting a low-fidelity prototype is to test the functionality and ease-of-usability of the features that I designed with my target audience in mind. I wanted to gauge the efficiency of each of the features and understand what may be confusing to users, allowing me to figure out what I may need to adjust in my GrocerySaver application to ensure that users get the most out of each feature and the application as a whole.
+
+
 *Summary and link to the sketches (may contains the multiple versions and evaluation history)*
 
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
