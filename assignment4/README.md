@@ -39,7 +39,7 @@ The purpose of UX storytelling is to better understand the user by considering t
 ![Maya Empathy](mayaempathy.png)
 
 #### 3. Maya's Scenario
-![Maya Scenario](mayascenario.png)
+![Maya Scenario](mayascenariogreen.png)
 
 #### 4. Maya's Journey
-![Maya Journey](mayamap.png)
+![Maya Journey](mayastorygreen.png)
