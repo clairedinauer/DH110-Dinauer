@@ -95,26 +95,54 @@ Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demo
 [**Read more about UX Storytelling here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
 
 
-
 ## Wireframe and Graphic Design Element Variation 
+### Low-Fidelity Prototype 
+
+This project aims to assist users with the efficiency and cost of their grocery shopping trips. The target audience is for any young adult or older who does their own grocery shopping, or shops for their family, who seeks to save both time and money. These users likely have busy lives, whether as students, parents, or full-time workers, who may want to have more time to spend with their family or doing hobbies outside rather than spending too much time circling the grocery store looking for products and spending more money than necessary. Based on my user research, the following features are focused on helping users save time and money when creating their shopping lists and conducting their grocery trips:
+
+* **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list
+* **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out
+* **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
+
+My target users were created around the ideals of a balance between cost-efficient and time-efficient shopping, enabling users to take advantage of multiple stores in their area, if applicable. My two personas were a 21-year-old college student and 39-year-old genetics counselor and mother, each of whom desired more time focusing on their priorities (i.e. studying or spending time with family). My personas also prioritize ease of organization and making the most of their budgets. The college student wants to know his way around his university's local grocery stores, while optimizing his study time and staying within his monthly budget. The full-time genetics counselor/parent wants to seek new recipes for her family and to keep her grocery lists and coupons organized. 
+
+Overall, the purpose for conducting this low-fidelity prototype is to test the functionality and ease-of-usability of the features that I designed with my target audience in mind. I want to gauge the efficiency of each of the features and understand what may be confusing to users, allowing me to figure out what I may need to adjust in my GrocerySaver application to ensure that users get the most out of each feature and the application as a whole.
+
+### Tasks and Flow
+
+Tasks were curated with target users in mind:
+* Finding recommendations for recipes based on desired products
+* Looking for an item with a coupon, then clipping the coupon, and viewing their coupons during check-out
+* Constructing a shopping list
+* Viewing the aisles in which their items are located
 
  <p align="center">
  <img src="assignment5/flow.jpeg" width="400" height="800">
  </p>
 
-[**Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
+Supported features for these prototype tasks include:
+* **Recipes**: The "Recipes" button is located at the menu at the bottom of the home and several relevant pages. The user can click this button to view all of their recipes, in which they can search through their saved recipes. 
+* **Coupons**: The "Coupons" button is located at the menu at the bottom of the home and several relevant pages. The user can view all of their clipped coupons for each relevant store, and click on the coupon to open up the scannable code for check-out. 
+* **Shopping Lists**: The user can create new lists and view their current list.
+* **Aisles**: The user can view the aisles in which each item is located when viewing more specific details about the product in a store and when viewing their current list
+
+### Revisions to the Prototype
+
+Based on my participant's feedback, I changed several aspects of the app layout, icons, and functionality, while adjusting any tasks accordingly for the final prototype. I encountered concerns about the app appearing too complicated based on my user's actions and feedback, in which she seemed to try to complete each task in whatever way seemed to be the fastest. Going forward, I wanted to make edits to ensure that all the features of the app are identifiable, allowing users to take advantage of what the app can do.
+
+[**Read more about my Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
 
-[assignment06 + part of 07]
+
+## Low-Fidelity Prototype 
+(wireflow, assignment06)
+
 
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
 
 [**Assignment 7**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment7)
 
-## Low-Fidelity Prototype 
-(wireflow, assignment06)
 
-The purpose for conducting a low-fidelity prototype is to test the functionality and ease-of-usability of the features that I designed with my target audience in mind. I wanted to gauge the efficiency of each of the features and understand what may be confusing to users, allowing me to figure out what I may need to adjust in my GrocerySaver application to ensure that users get the most out of each feature and the application as a whole.
 
 
 *Summary and link to the sketches (may contains the multiple versions and evaluation history)*
