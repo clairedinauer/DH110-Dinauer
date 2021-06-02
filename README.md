@@ -61,13 +61,13 @@ I conducted a Usability Test (UT) with Craigslist to observe how people use the 
 The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
 
 <p align="center">
- <img src="jacobpersona.png" width="420" height="260">
- <img src="jacobscenario.png" width="420" height="260">
+ <img src="jacobpersona.png" width="400" height="230">
+ <img src="jacobscenario.png" width="400" height="230">
  </p>
  
  <p align="center">
- <img src="mayapersona.png" width="420" height="260">
- <img src="mayastorygreen.png" width="420" height="260">
+ <img src="mayapersona.png" width="400" height="230">
+ <img src="mayastorygreen.png" width="400" height="230">
  </p>
  
 Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demonstrate how some of my target users may use the Grocery Saver platform. I specifically focused on the following key design features for the scenarios I created for Jacob and Maya:
