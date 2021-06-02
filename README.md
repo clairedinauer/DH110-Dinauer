@@ -26,12 +26,49 @@ The Grocery Saver app particularly resolves these stresses of grocery shopping, 
 This project appeals to users' esteem needs, involving a sense of prestige and a feeling of accomplishment by maximizing their savings and exploring new recipes. While the project may seem to address physiological needs on the surface due to its enhancement of food accessibility and costs, the project overarchingly targets users' esteem needs because users are likely to feel more accomplished after completing their grocery shopping in a timely, costly manner. Overall, this project is important and useful to all users by increasing organization and accessibility to a positive shopping and cooking experience catered to each user.
 
 ## Competitor Analysis 
-[assignment01 & 02]:
-*Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated*
 
-- [**Assignment01**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)
-- 
-- [**Assignment02**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)
+### Craigslist and Facebook Marketplace Summaries
+> As long as I can remember, my parents enjoyed using Craigslist to locate affordable furniture and services for our family to use. However, scrolling through Craigslist myself, I consistently found fishy listings, sometimes many of the same exact listing, with poor or unclear options for contacting the lister that required little-to-no verification of identity. Additionally, since attending college, my eyes have been opened to different local virtual marketplaces that made being a college student easier and more affordable, specifically in terms of purchasing textbooks from other students for my classes or purchasing used furniture for my apartment. I, along with many other university students, use Facebook Marketplace to post listings of our items to students or other individuals within a certain radius of our loaction. Looking at these two sites, I wanted to delve into what makes a "community marketplace" user-friendly and safe for a wide range of age groups, and what may need to be improved to optimize safety, accessibility, and overall site design.
+
+[**Craigslist**](https://losangeles.craigslist.org/)
+
+*Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site has been around since 1995 and has served to operate like the classifieds section of a newspaper.*
+
+*Craigslist lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.*
+
+![Craigslist Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png)
+
+*Craigslist Webpage*
+
+![Craigslist Sidebar](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist_tab.png)
+
+*Craigslist Sidebar*
+
+[**Facebook Marketplace**](https://www.facebook.com/marketplace/)
+
+*Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace also caters users' home page to previously viewed items or to items that the website believes the user may be interested in.*
+
+*Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.*
+
+![Facebook Marketplace Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png)
+
+*Facebook Marketplace Home*
+
+![FB Market Sidebar 1](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab1.png)![FB Market Sidebar 2](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket_tab2.png)
+
+*Facebook Marketplace Tabs*
+
+Read more about my evaluation of these two platforms [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1)!
+
+### Summary of Pilot Usability Test with Craigslist
+
+I conducted a Usability Test (UT) with Craigslist to observe how people use the website, while gaining a greater understanding of a product’s effectiveness, efficiency, and satisfaction. This UT allowed me to identify what users found good or bad about the site design. 
+
+Practicing a UT with a website such as Craislist helped me get used to the process of interviewing users and learning what information I wanted to get out of users for my own project. This also helped me with curating my own UT tasks to observe my participants' behaviors, attitudes, and thoughts while navigating my product.
+
+Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment2)!
+* Check out my [Moderator Script/UT Survey](https://forms.gle/ykcCgg37MaNEwaaPA) 
+* Check out my [UT video](https://drive.google.com/file/d/1XyIuLdEvbv8lesRAxNG4715Ekk8i5RSX/view?usp=sharing)
 
 ## User Research 
 [contextual inquiry, assignment04]:
@@ -78,6 +115,3 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 what did you learn throughout the process?
 
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
-
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
