@@ -60,6 +60,16 @@ Read more about my Usability Test [**here**](https://github.com/clairedinauer/DH
 [contextual inquiry, assignment04]:
 *Summary and link to your assignment folder*
 
+<p align="center">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/jacobpersona.png" width="420" height="260">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/jacobmap.png" width="420" height="260">
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/mayapersona2.png" width="420" height="260">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/mayastorygreen.png" width="420" height="260">
+ </p>
+
 [**Assignment 4**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment4)
 
 ### UX Storytelling 
