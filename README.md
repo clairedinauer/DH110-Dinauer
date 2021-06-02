@@ -37,7 +37,7 @@ Looking at these two websites helped me think about what I would want my own pla
 Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png" width="600" height="425">
+ <img src="craigslist.png" width="600" height="425">
  </p>
 
 #### [**Facebook Marketplace**](https://www.facebook.com/marketplace/)
@@ -45,7 +45,7 @@ Craigslist is a website for viewing and posting advertisements or listings devot
 Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="390">
+ <img src="fbmarket.png" width="600" height="390">
  </p>
 
 [**Read more about my evaluation of these two platforms here**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment1).
@@ -61,13 +61,13 @@ I conducted a Usability Test (UT) with Craigslist to observe how people use the 
 The purpose of UX storytelling is to better understand the user by considering their world view and perspective when encountering different aspects of life. UX storytelling enables design teams to create personas based on their target audience, allowing them to consider the behaviors, thoughts, and environments of their users. Storytelling opens the door to considering user's emotions as they navigate scenarios that are relevant to the product. This allows teams to combine a range of consumer experiences to develop a dynamic, user-friendly product.
 
 <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/jacobpersona.png" width="420" height="260">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/jacobmap.png" width="420" height="260">
+ <img src="jacobpersona.png" width="420" height="260">
+ <img src="jacobscenario.png" width="420" height="260">
  </p>
  
  <p align="center">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/mayapersona2.png" width="420" height="260">
- <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/assignment4/mayastorygreen.png" width="420" height="260">
+ <img src="mayapersona.png" width="420" height="260">
+ <img src="mayastorygreen.png" width="420" height="260">
  </p>
  
 Above, you can see the two personas I created, Jacob Stern and Maya Hao, to demonstrate how some of my target users may use the Grocery Saver platform. I specifically focused on the following key design features for the scenarios I created for Jacob and Maya:
