@@ -4,7 +4,7 @@ A DH110 Project by Claire Dinauer
 [Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
 
 <p align="center">
- <img src="grocerystore.jpg" width="900" height="500">
+ <img src="grocerystore.jpg" width="900" height="530">
  </p>
  
 ###### *Credit: GETTY Images*
