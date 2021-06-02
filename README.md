@@ -31,22 +31,26 @@ This project appeals to users' esteem needs, involving a sense of prestige and a
 > I chose to look at Craigslist and Facebook Marketplace to delve into what makes a "community marketplace" user-friendly and safe for a wide range of age groups, and what may need to be improved to optimize safety, accessibility, and overall site design. Scrolling through Craigslist myself in the past, I consistently found fishy listings, sometimes many of the same exact listing, with poor or unclear options for contacting the lister that required little-to-no verification of identity. Since attending college, my eyes have been opened to different local virtual marketplaces that made being a college student easier and more affordable, specifically in terms of purchasing textbooks from other students for my classes or purchasing used furniture for my apartment. I, along with many other university students, use Facebook Marketplace to post listings of our items to students or other individuals within a certain radius of our loaction. 
 > Looking at these two websites helped me think about what I would want my own platform to look like when designing a type of "community marketplace," or a site or app in which users could have easy, trustworth access to information about products in their area.
 
-[**Craigslist**](https://losangeles.craigslist.org/)
+#### [**Craigslist**](https://losangeles.craigslist.org/)
 
-*Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site has been around since 1995 and has served to operate like the classifieds section of a newspaper.*
+*Craigslist is a website for viewing and posting advertisements or listings devoted to jobs, housing, for sale, items wanted, services, community service, gigs, resumes, and discussion forums. The site lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.*
 
-*Craigslist lacks aesthetic organization, especially due to its cluttered style and lack of engaging visualizations that could make the site easier to navigate. While the website is newspaper-esque, it could use some updates to be more visually appealing, in which certain enhancements could make navigating the site easier. The website also has a notably high scam and setup rate, which makes it risky for elder populations and younger children or teens to use who may be less familiar with navigating scams.*
-
+<p align="center">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png" width="600" height="300">
+ </p>
+ 
 ![Craigslist Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/craigslist.png)
 
 *Craigslist Webpage*
 
-[**Facebook Marketplace**](https://www.facebook.com/marketplace/)
+#### [**Facebook Marketplace**](https://www.facebook.com/marketplace/)
 
-*Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace also caters users' home page to previously viewed items or to items that the website believes the user may be interested in.*
+*Facebook Martketplace is an open exchange where users can buy and sell new and pre-owned items to other users, in which searches can be narrowed based on location. Any users can list products or services for sale and gain access to a local audience. The website also groups items or forums into categories, such as electronics, clothing, family, free items, hobbies, real estate, and supplies. Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.*
 
-*Facebook Marketplace is notably more visually appealing and simple to navigate for both buyers and sellers. The use of an algorithm to offer "Picks for You" could use improvements, as it may be based on slim availability of data based on a user's former activity. Because Facebook originated as a social media platform to enhance community, Facebook Marketplace is able to combine the community aspects of their site to make selling feel more personable and safe. The ability to directly message other users through the marketplace platform make seller and buyer identities more verifiable. The platform aims to be user-friendly by generating automated potential responses to listings in the marketplace. There are fewer improvements for the site to make in comparison to Craigslist.*
-
+<p align="center">
+ <img src="https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png" width="600" height="300">
+ </p>
+ 
 ![Facebook Marketplace Website](https://github.com/clairedinauer/DH110-Dinauer/blob/main/fbmarket.png)
 
 *Facebook Marketplace Home*
