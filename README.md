@@ -1,14 +1,17 @@
-# Grocery Saver
-A DH110 Project by Claire Dinauer
-
-[Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
-
 <p align="center">
  <img src="grocerystore.jpg" width="900" height="530">
  </p>
  
 ###### *Credit: GETTY Images*
- 
+
+# Grocery Saver
+A DH110 Project by Claire Dinauer
+
+<p align="center">
+ <img src="log_in.jpg" width="400" height="780">
+ </p>
+
+
 ## Introduction: a brief information about the project. 
 *What is the project about? The motivation of the project and possible contribution.*
 
@@ -58,3 +61,4 @@ This project addressess users' esteem needs, involving a sense of prestige and a
 
 ## Conclusion: what did you learn throughout the process?
 
+[Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
