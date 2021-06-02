@@ -11,16 +11,19 @@ DH110 UX/UI Project by Claire Dinauer
  <img src="log_in.png" width="300" height="580">
  </p>
 
-
 ## Introduction
 *What is the project about? The motivation of the project and possible contribution.*
 
-This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists.
+This quarter, I focused on creating a UX Project that could assist both younger and older adults with saving money, increasing organization, maximizing efficiency, and expanding their horizons to take advantage of what their grocery stores have to offer. Planning shopping trips 
+
+This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists. The 
 
 ## Design Statement 
-*What is the issue and Why do you think it is important to resolve that issue by your project?*
+Many individuals, whether college-aged or adults with families, are looking for ways to save money and focus their time on tasks and activities that necessary errands take time away from. Particularly, grocery shopping is an errand that all-ages need to get done at least a couple of times each month. As college students, parents with kids to feed, or simply adults looking to save money, grocery costs can add up. Undoubtedly, groceries typically cost less than eating out, and so all some people need is a nudge to organize their coupons and take advantage of learning easy, accessible recipes to make for themselves or their families. Plus, finding certain products in different grocery stores can be a hassle, and it is extra frustrating when you purchase an item at one store, only to realize that another store sells it for less.
 
-This project addressess users' esteem needs, involving a sense of prestige and a feeling of accomplishment. While the project may seem to address physiological needs on the surface due to its enhancement of food accessibility, the project overarchingly targets users' esteem needs because users are likely to feel more accomplished after completing their grocery shopping in a timely, costly manner.
+The Grocery Saver app particularly resolves these stresses of grocery shopping, enabling users to compare prices across stores, create and save shopping lists, note aisles of each product, save coupons, and discover recipes. These features exclusively compiled into the Grocery Saver platform overall save shoppers both time and money, giving college students more time to study or see friends and giving families a fun budget- and time-friendly shopping experience.
+
+This project appeals to users' esteem needs, involving a sense of prestige and a feeling of accomplishment by maximizing their savings and exploring new recipes. While the project may seem to address physiological needs on the surface due to its enhancement of food accessibility and costs, the project overarchingly targets users' esteem needs because users are likely to feel more accomplished after completing their grocery shopping in a timely, costly manner. Overall, this project is important and useful to all users by increasing organization and accessibility to a positive shopping and cooking experience catered to each user.
 
 ## Competitor Analysis 
 [assignment01 & 02]:
