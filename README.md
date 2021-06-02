@@ -8,7 +8,7 @@
 A DH110 Project by Claire Dinauer
 
 <p align="center">
- <img src="log_in.jpg" width="400" height="780">
+ <img src="log_in.png" width="400" height="780">
  </p>
 
 
