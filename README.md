@@ -212,9 +212,7 @@ I also conducted a walkthrough with a participant to test usability. The video r
 
 Watch the [**Pitch Video**](https://youtu.be/o8QXWruMQ_s)!
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/o8QXWruMQ_s" width="560" height="420"></iframe>
-</figure>
+[![Grocery Saver Pitch](https://img.youtube.com/vi/o8QXWruMQ_s/0.jpg)](https://www.youtube.com/watch?v=o8QXWruMQ_s)
 
 ## Conclusion 
 
