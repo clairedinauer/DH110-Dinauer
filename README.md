@@ -204,7 +204,7 @@ I conducted this test after doing the cognitive walkthrough above. This was my m
 
 ## Pitch Video 
 
-Watch the [Pitch Video]!
+Watch the [**Pitch Video**](https://youtu.be/QyK861tCeJY)!
 
 ## Conclusion 
 
