@@ -138,15 +138,30 @@ This prototype allows users to utilize the following tools:
 1. **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list
 2. **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out
 3. **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
+ 
+ **Layout**
+ 
+  <p align="center">
+ <img src="homepages.png" width="700" height="300">
+  <img src="top1.png" width="700" height="300">
+   <img src="top2.png" width="700" height="300">  
+   <img src="top3.png" width="700" height="300">
+ <img src="top4.png" width="500" height="300"> 
+ </p>
+ 
+ **Colors**
 
-
-**Colors**
 I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
 
  <p align="center">
  <img src="colorcheck.png" width="550" height="550">
  </p>
  
+**Prototype**
+
+ <p align="center">
+ <img src="flowprototype.png" width="400" height="800">
+ </p>
 
 **Summary Statement**
 [**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
@@ -162,7 +177,17 @@ I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for
 ## Optional evaluation and revision history 
 *Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)*
 
+**Usability Testing**
+
+* [Watch the UT Video](https://drive.google.com/file/d/1PyMJCpbrMZrMbXNNIir9LIpcvVwAJ1J5/view?usp=sharing)
+* [Read the UT Script](https://docs.google.com/forms/d/e/1FAIpQLSeWTE9sbevH_o1-EXoATUmhWwz4NmfWRV3188z7mbz1h1_u0A/viewform?usp=sf_link)
+
+**Highlights of UT**
+My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
+
 ## Pitch Video 
+
+Watch the [Pitch Video]!
 
 ## Conclusion 
 what did you learn throughout the process?
