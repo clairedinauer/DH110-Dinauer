@@ -160,7 +160,7 @@ For my design, I included the above features and tools while focusing on making 
  <img src="assignment6/buttons.png" width="400" height="150">
  </p>
 
-I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
+**Colors:** I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
 
  <p align="center">
  <img src="colorcheck.png" width="550" height="550">
@@ -169,6 +169,7 @@ I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for
 **High-Fidelity Prototype**
 
 The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1).
+The link to the interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=203%3A23&scaling=scale-down&page-id=0%3A1) or used below.
 
  <p align="center">
  <img src="flowprototype.png" width="400" height="700">
@@ -178,10 +179,13 @@ The link to the wireflow can be accessed [**here**](https://www.figma.com/file/L
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
+**Summary Statement**
+
+Figma enabled me to create a testable, engaging high-fidelity prototype throughout this project that enabled me to carry out the design features that I wanted to incorporate into my Grocery Saver app. Figma's platform was straighforward to use, and I enjoyed learning more about the platform the more that I used it. The tools and features offered by Figma allowed me to test different colors, buttons, and logos to see what was most functional. Moreover, I enjoyed conducting my cognitive walkthrough and usability tests through the website, as I was always able to quickly make any necessary adjustments to my design, functions, or features. I am interested in using the platform in the future to create more projects.
+
 [**Read more about my High-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
 
-## Optional evaluation and revision history 
-*Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)*
+## Optional Evaluation and Revision History
 
 ### Cognitive Walkthrough of Tasks
 
@@ -198,13 +202,11 @@ I also conducted a walkthrough with a participant to test usability. The video r
 * [Watch the UT Video](https://drive.google.com/file/d/1PyMJCpbrMZrMbXNNIir9LIpcvVwAJ1J5/view?usp=sharing)
 * [Read the UT Script](https://docs.google.com/forms/d/e/1FAIpQLSeWTE9sbevH_o1-EXoATUmhWwz4NmfWRV3188z7mbz1h1_u0A/viewform?usp=sf_link)
 
-**Highlights of UT**
-
-I conducted this test after doing the cognitive walkthrough above. This was my most final version of my prototype, and so I was seeking to any final touches or adjustments to my project to ensure that the app worked smoothly for each task and beyond. My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
+**Highlights of UT:** I conducted this test after doing the cognitive walkthrough above. This was my most final version of my prototype, and so I was seeking to any final touches or adjustments to my project to ensure that the app worked smoothly for each task and beyond. My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
 
 ## Pitch Video 
 
-Watch the [**Pitch Video**](https://youtu.be/QyK861tCeJY)!
+Watch the [**Pitch Video**](https://youtu.be/o8QXWruMQ_s)!
 
 ## Conclusion 
 
