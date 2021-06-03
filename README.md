@@ -12,11 +12,9 @@ DH110 UX/UI Project by Claire Dinauer
  </p>
 
 ## Introduction
-*What is the project about? The motivation of the project and possible contribution.*
+This quarter, I focused on creating a UX Project that could assist both younger and older adults with saving money, increasing organization, maximizing efficiency, and expanding their horizons to take advantage of what their grocery stores have to offer. This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists. 
 
-This quarter, I focused on creating a UX Project that could assist both younger and older adults with saving money, increasing organization, maximizing efficiency, and expanding their horizons to take advantage of what their grocery stores have to offer. Planning shopping trips 
-
-This project will support users in their ability to create a grocery shopping list that enables them to minimize their number of trips to different grocery stores, while maximizing savings. This will particularly help younger and older adults who live in areas with multiple grocery store options figure out where they can get the best deals for the items on their grocery lists. The 
+Because applications for larger stores are specific to providing information regarding products and costs at that one store, an application that utilizes algorithms to compare costs of products and produce across multiple grocery stores will enable users to find the products that they are looking for at the lowest cost. In addition, rather than feeling limited to shopping at one store, users could set location preferences for where they would like to do their grocery shopping within a certain radius, as well as how many stores they may be willing to go to, in order to curate a shopping experience that works best for their time and wallet.
 
 ## Design Statement 
 Many individuals, whether college-aged or adults with families, are looking for ways to save money and focus their time on tasks and activities that necessary errands take time away from. Particularly, grocery shopping is an errand that all-ages need to get done at least a couple of times each month. As college students, parents with kids to feed, or simply adults looking to save money, grocery costs can add up. Undoubtedly, groceries typically cost less than eating out, and so all some people need is a nudge to organize their coupons and take advantage of learning easy, accessible recipes to make for themselves or their families. Plus, finding certain products in different grocery stores can be a hassle, and it is extra frustrating when you purchase an item at one store, only to realize that another store sells it for less.
@@ -131,13 +129,16 @@ Based on my participant's feedback, I changed several aspects of the app layout,
 
 [**Read more about my Wireframe and Low-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment5)
 
-
 ## High-Fidelity Prototype 
+
+I created 20 frames on Figma with which participants could interact with my high-fidelity prototype. Three of the 20 frames are different versions of the home page in varying hues, as shown above. A separate three frames are repeats to allow users no navigate smoothly to the same screen from different access-points. Users can access the "light mode" and "dark mode" of these home pages by tapping on their profile icon to access their profile and settings, then select light mode or dark mode in preferences.
 
 This prototype allows users to utilize the following tools:
 1. **Recipe Recommendations** - recommends what recipes users can make based off the items they are adding to their shopping list
 2. **Coupons Tool** - recommends coupons for users based on the items they are adding to cart, in which users can digitally save the coupons their device to use at check-out
 3. **Aisle Labeling** - indicates where users can find each item in their respective store, as well as an overall summary list of the aisles in which the user will need to visit
+
+For my design, I included the above features and tools while focusing on making sure that my app looked neat, readable, and accessible. I included icons with relevant words, such as the house for the home page, chef's hat for recipes, and a notebook/list icon for the lists. I aimed to make any back buttons more intutive by also including arrows. There are three variations of the home page with different colors.
  
  **Layout**
  
@@ -149,7 +150,15 @@ This prototype allows users to utilize the following tools:
  <img src="top4.png" width="500" height="300"> 
  </p>
  
- **Colors**
+**Colors, Fonts, and Spacing Decisions**
+
+**Font:** I used the Manrope font with a variety of boldness and text size between 16-30. Spacing was 1.5 where applicable. I was otherwise sure to place any elements a consistent distance apart on each screen.
+
+**Buttons**: To direct users' focus, I created buttons with additional graphics or icons to give users' insight into where they will be redirected.
+
+ <p align="center">
+ <img src="assignment6/buttons.png" width="400" height="150">
+ </p>
 
 I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for the app's colors. Using the color-contrast check, I noticed that most of my colors would require black text (**#000000**) in order to be legible. For the third color option of my home screen, I used **#27A2AB** blue, which permitted the usage of black or white text (**#FFFFFF**). 
 
@@ -157,41 +166,58 @@ I primarily used the **#E32E2E** red, **#F3A4A4** red, and **#FCFAF2** beige for
  <img src="colorcheck.png" width="550" height="550">
  </p>
  
-**Prototype**
+**High-Fidelity Prototype**
+
+The link to the wireflow can be accessed [**here**](https://www.figma.com/file/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=0%3A1).
 
  <p align="center">
- <img src="flowprototype.png" width="400" height="800">
+ <img src="flowprototype.png" width="400" height="700">
  </p>
-
-**Summary Statement**
-[**Assignment 6**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
-
-[**Assignment 7**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment7)
-
-(functional/interactive prototype, assignment08)
 
 **High-Fidelity Prototype on Figma**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLLdDPIvlSZuc4WtEQ4rh4c%2FHigh-Fidelity%3Fnode-id%3D203%253A23%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
+**Summary Statement**
+
+
+[**Read more about my High-Fidelity Prototype**](https://github.com/clairedinauer/DH110-Dinauer/tree/main/assignment6)
+(functional/interactive prototype, assignment08)
+
 ## Optional evaluation and revision history 
 *Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)*
 
-**Usability Testing**
+### Cognitive Walkthrough of Tasks
+
+The cognitive walkthrough video for the above tasks can be viewed [**here**](https://drive.google.com/file/d/13Ja2a8IxbzpzPuKLzyjLlgQ4pSWs11_I/view?usp=sharing).
+- Task 1: 0:00-0:54
+- Task 2: 0:54-2:24
+
+I also conducted a walkthrough with a participant to test usability. The video recording can be accessed [**here**](https://drive.google.com/file/d/1ghwZbRHsA5A8UHsrU5R-wzeu03ML3NoN/view?usp=sharing).
+
+**Summary:** By carrying out the cognitive walkthrough myself, I noticed where some parts of my app were confusing. For example, I was having trouble with clicking the "back" buttons for my recipe and QR code pages, which ended up directing me to my recipes page and my coupons page rather than the actual last page I had been on. From these issues, I edited my wireflow and prototype to ensure that users would not run into the same issues that I did.
+
+### Usability Testing
 
 * [Watch the UT Video](https://drive.google.com/file/d/1PyMJCpbrMZrMbXNNIir9LIpcvVwAJ1J5/view?usp=sharing)
 * [Read the UT Script](https://docs.google.com/forms/d/e/1FAIpQLSeWTE9sbevH_o1-EXoATUmhWwz4NmfWRV3188z7mbz1h1_u0A/viewform?usp=sf_link)
 
 **Highlights of UT**
-My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
+
+I conducted this test after doing the cognitive walkthrough above. This was my most final version of my prototype, and so I was seeking to any final touches or adjustments to my project to ensure that the app worked smoothly for each task and beyond. My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
 
 ## Pitch Video 
 
 Watch the [Pitch Video]!
 
 ## Conclusion 
-what did you learn throughout the process?
 
-Moreover, I was grateful for all of the feedback 
+Throughout this process, I learned a great deal about UX/UI and have found myself reflecting more often when using different media platforms. Overall, I feel as though my UX project went well, and I am proud of the application I created as well as the skills and tools I learned. I got a stronger grasp of what a "good" design entails and the work that goes into creating a strong user experience. Learning to conduct UX research and interview peers about my work was helpful to reflect on and compare my own behaviors when I use websites or apps to others.
 
-[Read more…](https://clairedinauer.github.io/DH110-Dinauer/assignment8/README.md)
+By conducting usability tests, contextual inquiries, and cognitive walkthroughs, I grew more comfortable with sharing my work with others. In fact, over the quarter, I grew more excited to share my prototypes with my participants, particularly because I felt as though I showed growth throughout my design and research processes.
+
+I was grateful for the feedback given to me by my participants and professor, who pointed out aspects of my design that I had not thought about improving. This made me feel more comfortable with seeking out feedback, as I believe that my final product would not have turned out as well without others' input. I enjoyed constantly updating and revising my design, as this fed into the goal of my project: to create an app that is user-friendly and topical. That said, I would not have been able to create as aesthetic or accessible of an app without feedback from actual potential users.
+
+The project also motivated me to interact with and learn new design platforms, such as Figma. My eyes were opened to what a career in UX/UI may look like; even if I do not pursue a job in this particular field, I feel as though I gained tangible skills that could help me in the future.
+
+If I had more time to work on this project, I would be interesting in updating some of my logos or buttons to be more original, as I sourced many of my icons from public image bases. I would also be interested in experimenting with additional color palettes for the app just to play around with the colors. 
