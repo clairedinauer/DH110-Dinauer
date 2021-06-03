@@ -172,7 +172,7 @@ The link to the wireflow can be accessed [**here**](https://www.figma.com/file/L
 The link to the interactive prototype can be accessed [**here**](https://www.figma.com/proto/LLdDPIvlSZuc4WtEQ4rh4c/High-Fidelity?node-id=203%3A23&scaling=scale-down&page-id=0%3A1) or used below.
 
  <p align="center">
- <img src="flowprototype.png" width="400" height="700">
+ <img src="flowprototype.png" width="530" height="800">
  </p>
 
 **High-Fidelity Prototype on Figma**
