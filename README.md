@@ -202,11 +202,19 @@ I also conducted a walkthrough with a participant to test usability. The video r
 * [Watch the UT Video](https://drive.google.com/file/d/1PyMJCpbrMZrMbXNNIir9LIpcvVwAJ1J5/view?usp=sharing)
 * [Read the UT Script](https://docs.google.com/forms/d/e/1FAIpQLSeWTE9sbevH_o1-EXoATUmhWwz4NmfWRV3188z7mbz1h1_u0A/viewform?usp=sf_link)
 
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1PyMJCpbrMZrMbXNNIir9LIpcvVwAJ1J5/view?usp=sharing" width="560" height="420"></iframe>
+</figure>
+
 **Highlights of UT:** I conducted this test after doing the cognitive walkthrough above. This was my most final version of my prototype, and so I was seeking to any final touches or adjustments to my project to ensure that the app worked smoothly for each task and beyond. My participant indicated that the app was **innovative**, **cutting-edge**, **professional**, **impressive**, and **creative**. My participant's active feedback throughout each task was reassuring to understand what made the app easy-to-use and accessible. 
 
 ## Pitch Video 
 
 Watch the [**Pitch Video**](https://youtu.be/o8QXWruMQ_s)!
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/o8QXWruMQ_s" width="560" height="420"></iframe>
+</figure>
 
 ## Conclusion 
 
