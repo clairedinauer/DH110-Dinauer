@@ -21,8 +21,6 @@ Many individuals, whether college-aged or adults with families, are looking for 
 
 The Grocery Saver app particularly resolves these stresses of grocery shopping, enabling users to compare prices across stores, create and save shopping lists, note aisles of each product, save coupons, and discover recipes. These features exclusively compiled into the Grocery Saver platform overall save shoppers both time and money, giving college students more time to study or see friends and giving families a fun budget- and time-friendly shopping experience.
 
-This project appeals to users' esteem needs, involving a sense of prestige and a feeling of accomplishment by maximizing their savings and exploring new recipes. While the project may seem to address physiological needs on the surface due to its enhancement of food accessibility and costs, the project overarchingly targets users' esteem needs because users are likely to feel more accomplished after completing their grocery shopping in a timely, costly manner. Overall, this project is important and useful to all users by increasing organization and accessibility to a positive shopping and cooking experience catered to each user.
-
 ## Competitor Analysis 
 
 ### Craigslist and Facebook Marketplace Summaries
